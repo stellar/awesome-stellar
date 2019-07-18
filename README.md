@@ -1,6 +1,6 @@
-# Awesome Stellar 👨‍🚀 
-
 ![stellar logo](stellar_logo.png)
+
+# Awesome Stellar 👨‍🚀 
 
 A curated list of Stellar applications, blog posts, educational resources, tools, and more.
 
