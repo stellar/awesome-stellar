@@ -11,6 +11,7 @@ A curated list of Stellar applications, blog posts, educational resources, tools
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
 - [Store Your Stellar Assets](#store-your-stellar-assets)
+- [Use the Stellar Decentralized Exchange](#use-the-stellar-decentralized-exchange)
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
 
 
@@ -73,6 +74,18 @@ If you're new to Stellar start here.
   
 - [BlockEQ](https://www.blockeq.com/) 
   - BlockEQ is a private Stellar wallet that allows you to easily create or access an account with a recovery phrase. With BlockEQ you can send, receive, and trade XLM and Stellar tokens on the SDEX, Stellar’s decentralized exchange.
+  
+
+## Use the Stellar Decentralized Exchange 
+
+- User Interfaces for the DEX 
+  - [StellarX](https://www.stellarx.com/)
+  - [Stellarport](https://stellarport.io/home)
+  - [StellarTerm](https://stellarterm.com/)
+  - [BlockEQ](https://www.blockeq.com/) 
+  
+- Trading Bots
+  - [Kelp (free & open-source)](https://kelpbot.io/)
   
 ## Videos, Podcasts, and AMAs
 
