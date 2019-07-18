@@ -10,6 +10,7 @@ A curated list of Stellar applications, blog posts, educational resources, tools
 
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
+- [Store Your Stellar Assets](#store-your-stellar-assets)
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
 
 
@@ -54,6 +55,20 @@ If you're new to Stellar start here.
 - Intro to the Stellar Consensus Protocol
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
   - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
+  
+
+## Store Your Stellar Assets
+
+- [Keybase](https://keybase.io/blog/keybase-stellar-launch)
+  - Keybase is an encrypted communication app with a built-in Stellar wallet available on most mobile and desktop devices.
+- [Solar Wallet](https://solarwallet.io/)
+  - Solar Wallet is an easy to-use wallet with multi-signature transactions. Available on most mobile and desktop devices.
+- [Lobstr](https://lobstr.co/)
+  - Lobstr is a custodial wallet with 2FA key recovery. This wallet allows you to store any Stellar-based asset and perform trades on the Stellar decentralized exchange.
+- [StellarX IOS](https://apps.apple.com/us/app/stellarx/id1459181040) & [StellarX Android](https://play.google.com/store/apps/details?id=com.stellarx.app) 
+  - StellarX Wallet is a secure wallet built on top of the Stellar Network. It allows you to easily create an account or login with existing StellarX account and is a perfect compliment to the web app.
+- [BlockEQ](https://www.blockeq.com/) 
+  - BlockEQ is a private Stellar wallet that allows you to easily create or access an account with a recovery phrase. With BlockEQ you can send, receive, and trade XLM and Stellar tokens on the SDEX, Stellar’s decentralized exchange.
   
 ## Videos, Podcasts, and AMAs
 
