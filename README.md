@@ -10,6 +10,7 @@ A curated list of Stellar applications, blog posts, educational resources, tools
 
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
+- [Interviews | AMAs | Updates](#interviews-|-amas-|-updates)
 
 
 ## Official Channels
@@ -52,6 +53,20 @@ If you're new to Stellar start here.
 - Intro to the Stellar Consensus Protocol
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
   - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
+  
+## Interviews | AMAs | Updates
+
+- Interviews
+  - [Jed McCaleb - Money 20/20](https://youtu.be/aTqWbfDT1NY) 
+  - [Jed McCaleb: Stellar And The Vision Of An Open Financial System](https://youtu.be/dHkrrMg9RUw)
+  
+- AMAs
+  - [AMA with Jed McCaleb and Denelle Dixon (6/5/2019)](https://www.reddit.com/r/Stellar/comments/bwsprq/ama_with_stellar_development_foundation_jed/)
+  - [SDF Update & Mini AMA - Jed McCaleb (1/28/19)](https://www.reddit.com/r/Stellar/comments/akup8k/sdf_update/)
+  
+- Updates
+  - [Where We Are Headed - Denelle Dixon](https://medium.com/stellar-development-foundation/where-we-are-headed-6367c576b871)
+  - [Why I'm Joining Stellar - Denelle Dixon](https://medium.com/@denelledt/why-im-joining-stellar-bf85dbb467e5) 
 
 
 ## Contribute
