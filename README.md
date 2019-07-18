@@ -1,8 +1,10 @@
 # Awesome Stellar 👨‍🚀 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+![stellar logo](stellar_logo.png)
 
 A curated list of Stellar applications, blog posts, educational resources, tools, and more.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 
