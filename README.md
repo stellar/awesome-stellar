@@ -1,10 +1,10 @@
 ![stellar logo](stellar_logo.png)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-
 ## 👨‍🚀  Stellar is an open network for storing and moving money.
 
 Awesome Stellar is a curated list of Stellar applications, blog posts, educational resources, tools, and more.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 ## Contents
 
