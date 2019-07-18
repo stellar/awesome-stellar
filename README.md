@@ -10,6 +10,7 @@ Awesome Stellar is a curated list of Stellar applications, blog posts, education
 
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
+- [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
 - [Store Your Stellar Assets](#store-your-stellar-assets)
 - [Use the Stellar Decentralized Exchange](#use-the-stellar-decentralized-exchange)
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
@@ -56,6 +57,23 @@ If you're new to Stellar start here.
 - Intro to the Stellar Consensus Protocol
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
   - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
+  
+
+## Understanding the Stellar Consensus Protocol
+
+The Stellar Consensus Protocol (SCP) provides a way to reach consensus without relying on a closed system to accurately record financial transactions. SCP simultaneously enjoys four key properties: decentralized control, low latency, flexible trust, and asymptotic security.
+
+- [White Paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
+
+- Blog Posts 
+  - [Simplified SCP](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html)
+  - [Understanding the Stellar Consensus Protocol](https://medium.com/interstellar/understanding-the-stellar-consensus-protocol-423409aad32e)
+  - [Why Quorums Matter and How Stellar Approaches Them](https://medium.com/stellar-developers-blog/why-quorums-matter-and-how-stellar-approaches-them-547336c1275)
+
+- Talks by David Mazières
+  - [ConsensusDay 1 // Stellar Consensus Protocol - David Mazieres](https://youtu.be/rLRPFsloyqk)
+  - [dotScale 2017 - David Mazières - Internet-level consensus is practical](https://youtu.be/zTI1HAWDHIg) 
+  - [David Mazières: "The Stellar Consensus Protocol" | Talks at Google](https://youtu.be/vmwnhZmEZjc)
   
 
 ## Store Your Stellar Assets
