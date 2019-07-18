@@ -1,4 +1,4 @@
-# Awesome Stellar [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Stellar 👨‍🚀 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Stellar applications, blog posts, educational resources, tools, and more.
 
