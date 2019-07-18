@@ -10,7 +10,7 @@ A curated list of Stellar applications, blog posts, educational resources, tools
 
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
-- [Interviews | AMAs | Updates](#interviews-|-amas-|-updates)
+- [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
 
 
 ## Official Channels
@@ -36,6 +36,7 @@ If you're new to Stellar start here.
 - Quick Summary 
   - [Learn how Stellar unites the world’s financial infrastructure.](https://beta.stellar.org/overview)
   - [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
+  - [Lumeanuts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
   - [Crypto Exlained - What is Stellar?](https://ummjackson.com/crypto-explained/what-is-stellar)
   - [Coinbase Earn - What is Stellar?](https://www.coinbase.com/earn/stellar/lesson/1)
   
@@ -54,19 +55,23 @@ If you're new to Stellar start here.
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
   - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
   
-## Interviews | AMAs | Updates
+## Videos, Podcasts, and AMAs
 
-- Interviews
-  - [Jed McCaleb - Money 20/20](https://youtu.be/aTqWbfDT1NY) 
+- Videos
+  - [Crypto Assets: How are They Being Used to Make Payments on Blockchain?](https://youtu.be/geQD--3Ai6o)
+  - [Jed McCaleb - Money 20/20 Interview](https://youtu.be/aTqWbfDT1NY) 
+  - [IBM's Jesse Lund and Stellar's Jed McCaleb answer audience questions at Blockchain West](https://youtu.be/82U3AZdA0qU)
+  - [Stellar with Jed McCaleb at Distributed: Markets 2017](https://youtu.be/GIMOrsPxlZg)
+  
+- Podcasts 
   - [Jed McCaleb: Stellar And The Vision Of An Open Financial System](https://youtu.be/dHkrrMg9RUw)
+  - [Lisa Nestor podcast with Matt Case](https://www.spreaker.com/user/11246218/lisa-nestor-stellar_1)
   
 - AMAs
-  - [AMA with Jed McCaleb and Denelle Dixon (6/5/2019)](https://www.reddit.com/r/Stellar/comments/bwsprq/ama_with_stellar_development_foundation_jed/)
+  - [Blockchain Week NYC 2019 - Q&A with Jed McCaleb (Video)](https://youtu.be/OrpHfZcywJw) 
+  - [Blockchain Week NYC 2019 - Q&A with Jed McCaleb (Transcript)](https://medium.com/stellar-community/transcript-q-a-with-jed-mccaleb-blockchain-week-nyc-2019-17862ba66a90)
+  - [AMA with Jed McCaleb and Denelle Dixon (6/5/19)](https://www.reddit.com/r/Stellar/comments/bwsprq/ama_with_stellar_development_foundation_jed/)
   - [SDF Update & Mini AMA - Jed McCaleb (1/28/19)](https://www.reddit.com/r/Stellar/comments/akup8k/sdf_update/)
-  
-- Updates
-  - [Where We Are Headed - Denelle Dixon](https://medium.com/stellar-development-foundation/where-we-are-headed-6367c576b871)
-  - [Why I'm Joining Stellar - Denelle Dixon](https://medium.com/@denelledt/why-im-joining-stellar-bf85dbb467e5) 
 
 
 ## Contribute
