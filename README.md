@@ -62,6 +62,10 @@ If you're new to Stellar start here 👇
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
   - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
 
+- Intro to Inflation 
+  - [What is Inflation?](https://www.lumenauts.com/guides/how-inflation-works) 
+  - [FAQ - Inflation & Inflation Pool](https://pool.lumenaut.net/#faq)
+  - [Lumenaut Pool](https://pool.lumenaut.net/) - 100% inflation payout, no fees. By the community, for the community. 
 
 ## Blogs and Beginner Guides 
 
@@ -70,8 +74,6 @@ If you're new to Stellar start here 👇
 - [Help! I forgot my Stellar memo.](https://medium.com/stellar-community/help-i-forgot-my-stellar-memo-d62b3cc9c2f7)
 
 - [How Changes are Made to the Stellar Network](https://medium.com/stellar-community/how-changes-are-made-to-the-stellar-network-760abbb8d127) 
-
-- [What is Inflation?](https://www.lumenauts.com/guides/how-inflation-works) 
 
 - [How to Stay Safe on Stellar](https://www.lumenauts.com/blog/how-to-stay-safe-on-stellar)
 
