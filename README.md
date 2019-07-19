@@ -29,7 +29,7 @@
 - [Stellar Community Blog](https://medium.com/stellar-community)
 - [Stellar Developers Blog](https://medium.com/stellar-developers-blog)
 - [Reddit](https://www.reddit.com/r/Stellar/)
-- [Youtube](https://www.youtube.com/channel/UC4BrVpvKK0r2zP9xVFQcPSA)
+- [YouTube](https://www.youtube.com/channel/UC4BrVpvKK0r2zP9xVFQcPSA)
 - [Instagram](https://www.instagram.com/stellarorg/)
 - [Facebook](https://www.facebook.com/stellarfoundation) 
 - [LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
@@ -43,7 +43,7 @@ If you're new to Stellar start here 👇
   - [Learn how Stellar unites the world’s financial infrastructure.](https://beta.stellar.org/overview)
   - [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
   - [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
-  - [Crypto Exlained - What is Stellar?](https://ummjackson.com/crypto-explained/what-is-stellar)
+  - [Crypto Explained - What is Stellar?](https://ummjackson.com/crypto-explained/what-is-stellar)
   - [Coinbase Earn - What is Stellar?](https://www.coinbase.com/earn/stellar/lesson/1)
   
 - Intro to Stellar Assets & Anchors
