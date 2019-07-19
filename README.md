@@ -15,6 +15,7 @@
 - [Case Studies and Insights](#case-studies-and-insights)
 - [Network Statistics](#network-statistics)
 - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
+- [Stellar Asset Issuers (Anchors)](#stellar-asset-issuers-anchors)
 - [Store Your Stellar Assets](#store-your-stellar-assets)
 - [Use the Stellar Decentralized Exchange](#use-the-stellar-decentralized-exchange)
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
@@ -137,6 +138,21 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [ConsensusDay 1 // Stellar Consensus Protocol - David Mazieres](https://youtu.be/rLRPFsloyqk)
   - [dotScale 2017 - David Mazières - Internet-level consensus is practical](https://youtu.be/zTI1HAWDHIg) 
   - [David Mazières: "The Stellar Consensus Protocol" | Talks at Google](https://youtu.be/vmwnhZmEZjc)
+  
+
+## Stellar Asset Issuers (Anchors)
+
+- [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
+
+- [Token X](https://token.io/x) - Token X is backed 1:1 by fiat money and independently audited to confirm that assets in escrow match the outstanding stablecoins. Token X is ledger agnostic and currently runs on Stellar and Ethereum. All major currencies are supported.
+
+- [Apay (Papaya Anchor)](https://apay.io/in) - Papaya anchors multiple crypto assets to the network including BTC, LTC, and ETH.
+
+- [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
+
+- [Firefly](https://fchain.io/en/) - Firefly is a wallet provider and an issuer of the Chinese Yuan. 
+
+- [Smartlands](https://smartlands.io/) - Smartlands is a platform for tokenizing real world assets by issuing security tokens. 
   
 
 ## Store Your Stellar Assets
