@@ -40,7 +40,7 @@
 
 If you're new to Stellar start here 👇
 
-- Quick Summary 
+- Quick Summaries 
   - [Learn how Stellar unites the world’s financial infrastructure.](https://beta.stellar.org/overview)
   - [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
   - [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
