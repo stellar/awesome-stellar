@@ -5,7 +5,7 @@
 
 <p align="center">Awesome Stellar is a curated list of Stellar applications, blog posts, educational resources, tools, and more.</p>
 
-<div align="center><a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a></div> 
+<div align="center><a align="center" href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a></div> 
 
 ## Contents
 
