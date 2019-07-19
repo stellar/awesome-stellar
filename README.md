@@ -11,6 +11,8 @@
 
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
+- [Blogs and Beginner Guides](#blogs-and-beginner-guides)
+- [Network Statistics](#network-statistics)
 - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
 - [Store Your Stellar Assets](#store-your-stellar-assets)
 - [Use the Stellar Decentralized Exchange](#use-the-stellar-decentralized-exchange)
@@ -35,7 +37,7 @@
 
 ## General Overview
 
-If you're new to Stellar start here. 
+If you're new to Stellar start here 👇
 
 - Quick Summary 
   - [Learn how Stellar unites the world’s financial infrastructure.](https://beta.stellar.org/overview)
@@ -58,7 +60,37 @@ If you're new to Stellar start here.
 - Intro to the Stellar Consensus Protocol
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
   - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
-  
+
+
+## Blogs and Beginner Guides 
+
+- [The Future of Money](https://medium.com/stellar-community/the-future-of-money-a8fe27ee8f1)
+
+- [Help! I forgot my Stellar memo.](https://medium.com/stellar-community/help-i-forgot-my-stellar-memo-d62b3cc9c2f7)
+
+- [How Changes are Made to the Stellar Network](https://medium.com/stellar-community/how-changes-are-made-to-the-stellar-network-760abbb8d127) 
+
+- [What is Inflation?](https://www.lumenauts.com/guides/how-inflation-works) 
+
+- [How to Stay Safe on Stellar](https://www.lumenauts.com/blog/how-to-stay-safe-on-stellar)
+
+- [How to Set Up a Mult-Sig Wallet](https://www.lumenauts.com/guides/how-to-set-up-a-multi-sig-wallet) 
+
+- [Stellar - What's in your wallet?](https://medium.com/@stellarguard/stellar-whats-in-your-wallet-1b07b8f7123a)
+
+- [How to Use Lumens on the Ledger Nano S](https://www.lumenauts.com/guides/how-to-use-lumens-on-the-ledger-nano-s)
+
+- [How could Kelp bot help Stellar?](https://medium.com/stellar-community/how-could-kelp-bot-help-stellar-ba9bec513041)
+
+
+## Network Statistics 
+
+- [Stellar Dashboard](https://dashboard.stellar.org/) - Monitors network status, ledger close times, fee stats, lumen distribution and more.
+
+- [StellarExpert](https://stellar.expert/explorer/public/) - Block explorer and analytics platform for the Stellar network. 
+
+- [Stellarbeat](https://stellarbeat.io/) - Information about nodes and validators on the network - includes a quorum monitor. 
+
 
 ## Understanding the Stellar Consensus Protocol
 
@@ -116,6 +148,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   
 - Podcasts 
   - [Jed McCaleb: Stellar And The Vision Of An Open Financial System](https://youtu.be/dHkrrMg9RUw)
+  - [Making cross-border payments seamless | Blockchain Pulse Podcast S01E02](https://youtu.be/uwExNUOYEMQ)
+  - [#004 - Stellar - Founder Jed McCaleb](https://blockzero.simplecast.com/episodes/004-stellar-founder-jed-mccaleb-ceaed0cc)
   - [Lisa Nestor podcast with Matt Case](https://www.spreaker.com/user/11246218/lisa-nestor-stellar_1)
   
 - AMAs
