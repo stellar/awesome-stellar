@@ -12,6 +12,7 @@
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
 - [Blogs and Beginner Guides](#blogs-and-beginner-guides)
+- [Case Studies and Insights](#case-studies-and-insights)
 - [Network Statistics](#network-statistics)
 - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
 - [Store Your Stellar Assets](#store-your-stellar-assets)
@@ -83,6 +84,27 @@ If you're new to Stellar start here 👇
 - [How could Kelp bot help Stellar?](https://medium.com/stellar-community/how-could-kelp-bot-help-stellar-ba9bec513041)
 
 
+## Case Studies and Insights
+
+- [Why IBM Built World Wire on Stellar](https://youtu.be/GtQY8Jfa4NA)
+
+- [Why IBM Built World Wire on Stellar: The Developer Experience](https://youtu.be/ksZAjFGGeRU)
+
+- [How SatoshiPay is Using Stellar to Transform Online Publishing](https://youtu.be/aaCc0s1bWAs)
+
+- [Central Bank Digital Currencies](http://thinktank.omfif.org/ibm)
+
+- [Charting the Evolution of Programmable Money](https://www.ibm.com/thought-leadership/institute-business-value/report/programmoneyevo)
+
+- [Paysend Group Launches Global Stablecoin on the Stellar Network](https://pressroom.journolink.com/paysend/release/paysend_group_launches_global_stablecoin_on_the_stellar_network_5007?)
+
+- [Keybase is now supported by the Stellar Development Foundation](https://keybase.io/blog/keybase-stellar)
+
+- [Why We Chose Stellar - BlockEQ](https://medium.com/@blockeq/why-we-chose-stellar-e5b9966c63b7) 
+
+- [Stellar Network: Growth and Decentralization](https://medium.com/@SatoshiPay/stellar-network-growth-and-decentralisation-e99c52ade798)
+
+
 ## Network Statistics 
 
 - [Stellar Dashboard](https://dashboard.stellar.org/) - Monitors network status, ledger close times, fee stats, lumen distribution and more.
@@ -90,6 +112,8 @@ If you're new to Stellar start here 👇
 - [StellarExpert](https://stellar.expert/explorer/public/) - Block explorer and analytics platform for the Stellar network. 
 
 - [Stellarbeat](https://stellarbeat.io/) - Information about nodes and validators on the network - includes a quorum monitor. 
+
+- [Galactic Vision](galactic.vision) - A 3D network and quorum explorer. 
 
 
 ## Understanding the Stellar Consensus Protocol
