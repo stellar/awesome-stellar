@@ -146,9 +146,15 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Token X](https://token.io/x) - Token X is backed 1:1 by fiat money and independently audited to confirm that assets in escrow match the outstanding stablecoins. Token X is ledger agnostic and currently runs on Stellar and Ethereum. All major currencies are supported.
 
+- [Tempo](https://tempo.eu.com/en) - Tempo's EURT is a stable coin, backed by on hand cash, 1 EURT = 1 EUR. 
+
 - [Apay (Papaya Anchor)](https://apay.io/in) - Papaya anchors multiple crypto assets to the network including BTC, LTC, and ETH.
 
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
+
+- [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
+
+- [MintX](https://mintx.co/) - MINTX supplies GOLD, SVLR, PLAT and PALL tokens priced to the physical metals global spot price +3%. 
 
 - [Firefly](https://fchain.io/en/) - Firefly is a wallet provider and an issuer of the Chinese Yuan. 
 
