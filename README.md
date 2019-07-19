@@ -169,6 +169,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [Jed McCaleb - Money 20/20 Interview](https://youtu.be/aTqWbfDT1NY) 
   - [IBM's Jesse Lund and Stellar's Jed McCaleb answer audience questions at Blockchain West](https://youtu.be/82U3AZdA0qU)
   - [Stellar with Jed McCaleb at Distributed: Markets 2017](https://youtu.be/GIMOrsPxlZg)
+  - [Jed McCaleb: How Many Lumens Till Stellar (2017)](https://youtu.be/-0JrcV-Ozoc)
   
 - Podcasts 
   - [Jed McCaleb: Stellar And The Vision Of An Open Financial System](https://youtu.be/dHkrrMg9RUw)
