@@ -42,7 +42,7 @@ If you're new to Stellar start here 👇
 - Quick Summary 
   - [Learn how Stellar unites the world’s financial infrastructure.](https://beta.stellar.org/overview)
   - [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
-  - [Lumeanuts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
+  - [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
   - [Crypto Exlained - What is Stellar?](https://ummjackson.com/crypto-explained/what-is-stellar)
   - [Coinbase Earn - What is Stellar?](https://www.coinbase.com/earn/stellar/lesson/1)
   
@@ -162,6 +162,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+Spell checking and checking for broken/incorrect links is also welcomed - let's keep the list clean!
 
 
 ## License
