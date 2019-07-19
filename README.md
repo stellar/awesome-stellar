@@ -77,6 +77,8 @@ If you're new to Stellar start here 👇
 
 - [How to Stay Safe on Stellar](https://www.lumenauts.com/blog/how-to-stay-safe-on-stellar)
 
+- [Anatomy of a Stellar Scam](https://medium.com/@stellarguard/anatomy-of-a-stellar-scam-the-hard-fork-4ac89808fd38)
+
 - [How to Set Up a Mult-Sig Wallet](https://www.lumenauts.com/guides/how-to-set-up-a-multi-sig-wallet) 
 
 - [Stellar - What's in your wallet?](https://medium.com/@stellarguard/stellar-whats-in-your-wallet-1b07b8f7123a)
