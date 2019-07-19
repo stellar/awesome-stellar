@@ -1,13 +1,13 @@
 <div align="center"><img width="50%" align="center" src="stellar_logo.png"></div>
 <br>
 
-<h2 align="center"> 👨‍🚀  Stellar is an open network for storing and moving money. </h2>
+<h2 align="center">  Stellar is an open network for storing and moving money. </h2>
 
 <p align="center">Awesome Stellar is a curated list of Stellar applications, blog posts, educational resources, tools, and more.</p>
 
 <div align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a></div> 
 
-## Contents
+## 👨‍🚀 Contents
 
 - [Official Channels](#official-channels)
 - [General Overview](#general-overview)
