@@ -90,6 +90,8 @@ If you're new to Stellar start here 👇
 
 - [Why IBM Built World Wire on Stellar: The Developer Experience](https://youtu.be/ksZAjFGGeRU)
 
+- [IBM Blockchain World Wire: How it Works](https://youtu.be/fXgwpfvDm5E) 
+
 - [How SatoshiPay is Using Stellar to Transform Online Publishing](https://youtu.be/aaCc0s1bWAs)
 
 - [Central Bank Digital Currencies](http://thinktank.omfif.org/ibm)
@@ -166,8 +168,11 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - Videos
   - [Crypto Assets: How are They Being Used to Make Payments on Blockchain?](https://youtu.be/geQD--3Ai6o)
+  - [What is IBM Blockchain World Wire?](https://youtu.be/IDq5MxmUSe8) 
   - [Jed McCaleb - Money 20/20 Interview](https://youtu.be/aTqWbfDT1NY) 
+  - [Jed McCaleb, Stellar, and Jesse Lund, IBM, Announce World Wire](https://youtu.be/FAQ5DLxEhOs)
   - [IBM's Jesse Lund and Stellar's Jed McCaleb answer audience questions at Blockchain West](https://youtu.be/82U3AZdA0qU)
+  - [CFCon USA 2018 / Jed McCaleb & Adam Ludwin / Issuing assets on blockchain](https://youtu.be/MAW1RApB_mE)
   - [Stellar with Jed McCaleb at Distributed: Markets 2017](https://youtu.be/GIMOrsPxlZg)
   - [Jed McCaleb: How Many Lumens Till Stellar (2017)](https://youtu.be/-0JrcV-Ozoc)
   
