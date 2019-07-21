@@ -109,7 +109,9 @@ If you're new to Stellar start here 👇
 
 - [Why We Chose Stellar - BlockEQ](https://medium.com/@blockeq/why-we-chose-stellar-e5b9966c63b7) 
 
-- [Stellar Network: Growth and Decentralization](https://medium.com/@SatoshiPay/stellar-network-growth-and-decentralisation-e99c52ade798)
+- [Stellar Network: Growth and Decentralization](https://medium.com/@SatoshiPay/stellar-network-growth-and-decentralisation-e99c52ade798))
+
+- [XLM launches on the back of a game-changing partnership](https://wirexapp.com/blog/post/xlm-launches-on-the-back-of-a-game-changing-partnership-0150)
 
 
 ## Network Statistics 
@@ -198,6 +200,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [Jed McCaleb: How Many Lumens Till Stellar (2017)](https://youtu.be/-0JrcV-Ozoc)
   
 - Podcasts 
+  - [Thriller Blockchain Week - S2EP 01: Kori and Kyle from Stellar](https://thrillerpodcast.simplecast.com/episodes/thriller-blockchain-week-s2ep-01-kori-a)
   - [Jed McCaleb: Stellar And The Vision Of An Open Financial System](https://youtu.be/dHkrrMg9RUw)
   - [Making cross-border payments seamless | Blockchain Pulse Podcast S01E02](https://youtu.be/uwExNUOYEMQ)
   - [#004 - Stellar - Founder Jed McCaleb](https://blockzero.simplecast.com/episodes/004-stellar-founder-jed-mccaleb-ceaed0cc)
