@@ -60,7 +60,7 @@ Stellar Meridian is a two-day conference taking place November 4-5, 2019 in Mexi
 - [Stellar Torch](http://stellartorch.com/) - A Stellar community experiment. The Stellar Torch is a transaction that is sent from person to person.
   - [The Stellar Torch is Lit](https://www.reddit.com/r/Stellar/comments/c5r2z0/the_stellar_torch_is_lit/)
   
-- [Keybase](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
+- [Stellar Keybase Team](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
 
 - [Reddit](https://www.reddit.com/r/Stellar/) - Stellar Subreddit with 100,000+ members. 
 
