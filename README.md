@@ -156,6 +156,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [ConsensusDay 1 // Stellar Consensus Protocol - David Mazieres](https://youtu.be/rLRPFsloyqk)
   - [dotScale 2017 - David Mazières - Internet-level consensus is practical](https://youtu.be/zTI1HAWDHIg) 
   - [David Mazières: "The Stellar Consensus Protocol" | Talks at Google](https://youtu.be/vmwnhZmEZjc)
+  - [A Federated Model for Internet-level Consensus](https://youtu.be/hjRQLYF599w)
   
 
 ## Stellar Asset Issuers (Anchors)
@@ -183,7 +184,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Keybase](https://keybase.io/blog/keybase-stellar-launch) - Keybase is an encrypted communication app with a built-in Stellar wallet available on most mobile and desktop devices.
   
-- [Solar Wallet](https://solarwallet.io/) - Solar Wallet is an easy to-use wallet with multi-signature transactions. Available on most mobile and desktop devices.
+- [Solar Wallet](https://solarwallet.io/) - Solar Wallet is an easy to-use wallet with multi-signature transactions. Available on most mobile and desktop devices. Allows users to withdraw stablecoins directly to their bank account. 
   
 - [Lobstr](https://lobstr.co/) - Lobstr is a custodial wallet with 2FA key recovery. This wallet allows you to store any Stellar-based asset and perform trades on the Stellar decentralized exchange.
   
