@@ -5,7 +5,7 @@
 
 <p align="center">Awesome Stellar is a curated list of Stellar applications, blog posts, educational resources, tools, and more.</p>
 
-<div align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a></div> 
+<div align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a></div> 
 
 ## 👨‍🚀 Contents
 
@@ -53,6 +53,8 @@
 - [Keybase](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
 
 - [Reddit](https://www.reddit.com/r/Stellar/) - Stellar Subreddit with 100,000+ members. 
+
+- [Stellar StackExchange](https://stellar.stackexchange.com/) - Developer focused community and a place to ask dev related questions.
 
 
 ## General Overview
@@ -166,19 +168,44 @@ If you're new to Stellar start here 👇
   - [Scala SDK](https://github.com/synesso/scala-stellar-sdk)
   - [C++ SDK](https://github.com/bnogalm/StellarQtSDK)
   
-- APIs 
+- Interact with the Stellar Network 
   - [Horizon API](https://horizon.stellar.org/) - Horizon allows you to submit transactions to the network, check the status of accounts, and subscribe to event streams. Servers hosted in the US. 
     - [Horizon Github Repo](https://github.com/stellar/go/tree/master/services/horizon) 
     
   - [SatoshiPay's Horizon API](https://stellar-horizon.satoshipay.io/) - SatoshiPay's alternative to Stellar.org's Horizon API servers. Servers hosted in the US, Europe, and Asia. 
   
+  - [Astrograph](https://astrograph.io/) - A GraphQL interface to the Stellar network. 
+    - [Astrograph Github Repo](https://github.com/astroband/astrograph) 
+  
   - [Stellar Ticker API](https://ticker.stellar.org/) - Provides the freshest data about Markets, Issuers and Assets on the Stellar Network.
     - [Ticker API Documentation](https://github.com/stellar/go/blob/master/services/ticker/docs/API.md) 
     - [Assets Endpoint](https://ticker.stellar.org/assets.json) - Displays information about all assets available. 
     - [Markets Endpoint](https://ticker.stellar.org/markets.json) - Displays 24-hour, 7-day and orderbook information about markets that were active during these periods. 
- 
- - [Developer Guides, Concepts, and Walkthroughs](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
+    
+- Educational Resources 
+  - [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
+      - [How and Why to Complete Your Stellar.toml](https://www.stellar.org/developers/guides/walkthroughs/how-to-complete-stellar-toml.html)
+      - [How to Connect Your Anchor Service to Stellar Wallets](https://www.stellar.org/developers/guides/walkthroughs/connect-to-wallets.html) 
+      - [Creating Custom Assets on Stellar](https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html) 
+    
+  - [Building your own Venmo with Stellar](https://blog.abuiles.com/building-your-own-venmo-with-stellar/) - This tutorial will show you how to create an anchor maintaining a Stellar account for each customer, hiding the implementation details. It will use the programming language JavaScript and the mobile wallet will be written using React Native.
+  
+  - [Explore Stellar Addresses and the Stellar DEX using Python](https://medium.com/@kolten/explore-stellar-addresses-and-the-stellar-dex-using-python-e72611822b48) - In this tutorial you'll be creating a script that takes in a Stellar address and returns the XLM balance. You will also convert that XLM balance to USD using the new ticker API for the Stellar DEX.
+  
+  - [Stellar payments — thoughts on federation, QR Codes, URIs, and Point of Sale systems within the Stellar.org ecosystem](https://medium.com/lumenauts/stellar-payments-thoughts-on-federation-qr-codes-uris-and-point-of-sale-systems-within-the-2c6fcdc3fa4d)
+  
+  - [Sending Secret and Anonymous Memos with Stellar](https://medium.com/lumenauts/sending-secret-and-anonymous-memos-with-stellar-8914479e949b) 
+  
+  - [Distributed Trustless Workers with Stellar](https://medium.com/lumenauts/distributed-trustless-workers-with-stellar-e197fd1b77f6) - An in-depth look at how Stellar’s advanced features can be used to create a “smart contract” between a customer and an anonymous and untrusted worker.
+  
+  - [I Just Wrote a Stellar Smart Contract](https://medium.com/@robdurst/i-just-wrote-a-stellar-smart-contract-7f54a391f5e1) & [I Just Wrote a Stellar Smart Contract Pt. 2: Let’s Dig a Little Deeper](https://medium.com/hackernoon/i-just-wrote-a-stellar-smart-contract-pt-2-lets-dive-a-little-deeper-a8dae19b9d0a) - Exploring Stellar 'smart contracts.' 
+  
+  - [Hacking Stellar](https://github.com/0xfe/hacking-stellar) - This online book introduces you to Stellar with lots of practical examples using the command-line client, Lumen. Incomplete but useful nonetheless for understanding basic concepts. 
+  
+  - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol) - Useful information regarding SCP.
 
+  - [How to Create a Custom Token on Stellar in Python](https://medium.com/python-pandemonium/how-to-create-a-custom-token-on-stellar-network-in-python-abf8b2f7a6f8) 
+  
 
 ## Understanding the Stellar Consensus Protocol
 
@@ -221,8 +248,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [Blockdaemon](https://blockdaemon.com/stellar-node-deployment/) - Spin up and deploy Stellar nodes within minutes. 
 
 - [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar. 
-
-- [DSTOQ](https://dstoq.com/) - DSTOQ is on a mission to introduce micro investing to billions of people around the world. Making investing accessible and affordable.
 
 ## Stellar Asset Issuers (Anchors)
 
