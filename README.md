@@ -145,6 +145,8 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources 
 
+- [Stellar Github](https://github.com/Stellar) 
+
 - [Stellar Core](https://github.com/stellar/stellar-core) - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
 - [Stellar Protocol](https://github.com/stellar/stellar-protocol) - Developer discussion about possible changes to the protocol.
@@ -163,7 +165,19 @@ If you're new to Stellar start here 👇
   - [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk)
   - [Scala SDK](https://github.com/synesso/scala-stellar-sdk)
   - [C++ SDK](https://github.com/bnogalm/StellarQtSDK)
-
+  
+- APIs 
+  - [Horizon API](https://horizon.stellar.org/) - Horizon allows you to submit transactions to the network, check the status of accounts, and subscribe to event streams. Servers hosted in the US. 
+    - [Horizon Github Repo](https://github.com/stellar/go/tree/master/services/horizon) 
+    
+  - [SatoshiPay's Horizon API](https://stellar-horizon.satoshipay.io/) - SatoshiPay's alternative to Stellar.org's Horizon API servers. Servers hosted in the US, Europe, and Asia. 
+  
+  - [Stellar Ticker API](https://ticker.stellar.org/) - Provides the freshest data about Markets, Issuers and Assets on the Stellar Network.
+    - [Ticker API Documentation](https://github.com/stellar/go/blob/master/services/ticker/docs/API.md) 
+    - [Assets Endpoint](https://ticker.stellar.org/assets.json) - Displays information about all assets available. 
+    - [Markets Endpoint](https://ticker.stellar.org/markets.json) - Displays 24-hour, 7-day and orderbook information about markets that were active during these periods. 
+ 
+ - [Developer Guides, Concepts, and Walkthroughs](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
 
 
 ## Understanding the Stellar Consensus Protocol
