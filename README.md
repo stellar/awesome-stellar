@@ -9,6 +9,7 @@
 
 ## 👨‍🚀 Contents
 
+- [Stellar Meridian](#stellar-meridian)
 - [Official Channels](#official-channels)
 - [Community](#community)
 - [General Overview](#general-overview)
@@ -23,6 +24,14 @@
 - [Use the Stellar Decentralized Exchange](#use-the-stellar-decentralized-exchange)
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
 
+## Stellar Meridian
+A new financial future is coming, and it's built on Stellar. Let's talk about it at Meridian. Tickets and agenda coming soon. 
+
+Stellar Meridian is a two-day conference taking place November 4-5, 2019 in Mexico City. 
+
+- [Introducing Meridian](https://medium.com/stellar-development-foundation/introducing-meridian-24c3396b868d)
+
+- [Join the Waitlist](https://meridian.stellar.org/) 
 
 ## Official Channels
 - [Stellar Website](https://www.stellar.org/)
