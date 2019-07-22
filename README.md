@@ -173,7 +173,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
 
-- [MintX](https://mintx.co/) - MINTX supplies GOLD, SVLR, PLAT and PALL tokens priced to the physical metals global spot price +3%. 
+- [MINTX](https://mintx.co/) - MINTX supplies GOLD, SVLR, PLAT and PALL tokens priced to the physical metals global spot price +3%. 
 
 - [Firefly](https://fchain.io/en/) - Firefly is a wallet provider and an issuer of the Chinese Yuan. 
 
