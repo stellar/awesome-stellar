@@ -16,6 +16,7 @@
 - [Case Studies and Insights](#case-studies-and-insights)
 - [Network Statistics](#network-statistics)
 - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
+- [Projects Building on Stellar](#projects-building-on-stellar)
 - [Stellar Asset Issuers (Anchors)](#stellar-asset-issuers-anchors)
 - [Store Your Stellar Assets](#store-your-stellar-assets)
 - [Use the Stellar Decentralized Exchange](#use-the-stellar-decentralized-exchange)
@@ -159,6 +160,32 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [A Federated Model for Internet-level Consensus](https://youtu.be/hjRQLYF599w)
   
 
+## Projects Building on Stellar 
+
+- [Stellar Asset Issuers (Anchors)](#stellar-asset-issuers-anchors) - Financial institutions issuing assets on the Stellar network.
+
+- [IBM World Wire](https://www.ibm.com/blockchain/solutions/world-wire) - A new financial rail that simultaneously clears and settles cross-border payments in near real-time.
+
+- [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet. 
+
+- [SatoshiPay](https://satoshipay.io/) - Global, fast and easy micropayment solutions. 
+
+- [Token](https://token.io/) - An open banking and digital money platform that delivers the infrastructure for lower cost, instant and more secure payments.
+
+- [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company.  It offers online, offline and crypto remittances to nearly 100 countries.
+
+- [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
+
+- [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
+
+- [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
+
+- [Blockdaemon](https://blockdaemon.com/stellar-node-deployment/) - Spin up and deploy Stellar nodes within minutes. 
+
+- [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar. 
+
+- [DSTOQ](https://dstoq.com/) - DSTOQ is on a mission to introduce micro investing to billions of people around the world. Making investing accessible and affordable.
+
 ## Stellar Asset Issuers (Anchors)
 
 - [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
@@ -170,8 +197,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [Apay (Papaya Anchor)](https://apay.io/in) - Papaya anchors multiple crypto assets to the network including BTC, LTC, and ETH.
 
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
-
-- [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
 
 - [MINTX](https://mintx.co/) - MINTX supplies GOLD, SVLR, PLAT and PALL tokens priced to the physical metals global spot price +3%. 
 
