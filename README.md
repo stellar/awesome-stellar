@@ -25,6 +25,9 @@
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
 
 ## Stellar Meridian
+<div align="center"><img width="100%" align="center" src="meridian_header.PNG"></div>
+<br>
+
 A new financial future is coming, and it's built on Stellar. Let's talk about it at Meridian. Tickets and agenda coming soon. 
 
 Stellar Meridian is a two-day conference taking place November 4-5, 2019 in Mexico City. 
