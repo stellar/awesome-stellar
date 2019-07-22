@@ -10,6 +10,7 @@
 ## 👨‍🚀 Contents
 
 - [Official Channels](#official-channels)
+- [Community](#community)
 - [General Overview](#general-overview)
 - [Blogs and Beginner Guides](#blogs-and-beginner-guides)
 - [Case Studies and Insights](#case-studies-and-insights)
@@ -35,6 +36,21 @@
 - [Instagram](https://www.instagram.com/stellarorg/)
 - [Facebook](https://www.facebook.com/stellarfoundation) 
 - [LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
+
+
+## Community 
+- [Galactic Talk](https://galactictalk.org/) - A community of Stellar users, developers and traders.
+
+- [Stellar Community Fund](https://medium.com/stellar-community/stellar-community-fund-13b722ca45f4) - An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community. 
+  - [Round 1 Winners](https://medium.com/stellar-community/stellar-community-fund-round-1-winners-1957314d15cc)
+  - [Round 2 Announcement](https://galactictalk.org/d/2037-scf-round-2-guidelines)
+  
+- [Stellar Torch](http://stellartorch.com/) - A Stellar community experiment. The Stellar Torch is a transaction that is sent from person to person.
+  - [The Stellar Torch is Lit](https://www.reddit.com/r/Stellar/comments/c5r2z0/the_stellar_torch_is_lit/)
+  
+- [Keybase](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
+
+- [Reddit](https://www.reddit.com/r/Stellar/) - Stellar Subreddit with 100,000+ members. 
 
 
 ## General Overview
@@ -109,7 +125,7 @@ If you're new to Stellar start here 👇
 
 - [Why We Chose Stellar - BlockEQ](https://medium.com/@blockeq/why-we-chose-stellar-e5b9966c63b7) 
 
-- [Stellar Network: Growth and Decentralization](https://medium.com/@SatoshiPay/stellar-network-growth-and-decentralisation-e99c52ade798))
+- [Stellar Network: Growth and Decentralization](https://medium.com/@SatoshiPay/stellar-network-growth-and-decentralisation-e99c52ade798)
 
 - [XLM launches on the back of a game-changing partnership](https://wirexapp.com/blog/post/xlm-launches-on-the-back-of-a-game-changing-partnership-0150)
 
