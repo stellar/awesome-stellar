@@ -15,6 +15,7 @@
 - [Blogs and Beginner Guides](#blogs-and-beginner-guides)
 - [Case Studies and Insights](#case-studies-and-insights)
 - [Network Statistics](#network-statistics)
+- [Developer Resources](#developer-resources)
 - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
 - [Projects Building on Stellar](#projects-building-on-stellar)
 - [Stellar Asset Issuers (Anchors)](#stellar-asset-issuers-anchors)
@@ -140,6 +141,29 @@ If you're new to Stellar start here 👇
 - [Stellarbeat](https://stellarbeat.io/) - Information about nodes and validators on the network - includes a quorum monitor. 
 
 - [Galactic Vision](galactic.vision) - A 3D network and quorum explorer. 
+
+
+## Developer Resources 
+
+- [Stellar Core](https://github.com/stellar/stellar-core) - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+
+- [Stellar Protocol](https://github.com/stellar/stellar-protocol) - Developer discussion about possible changes to the protocol.
+   - [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) 
+   - [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md)
+
+- [Stellar Docs](https://github.com/stellar/docs) - Stellar documentation. 
+
+- Stellar SDKs 
+  - [JavaScript SDK](https://www.stellar.org/developers/js-stellar-sdk/reference/) 
+  - [Go SDK](https://www.stellar.org/developers/go/reference/)
+  - [Java SDK](https://github.com/stellar/java-stellar-sdk)
+  - [Python SDK](https://github.com/StellarCN/py-stellar-base) 
+  - [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) 
+  - [Ruby SDK](https://github.com/bloom-solutions/ruby-stellar-sdk)
+  - [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk)
+  - [Scala SDK](https://github.com/synesso/scala-stellar-sdk)
+  - [C++ SDK](https://github.com/bnogalm/StellarQtSDK)
+
 
 
 ## Understanding the Stellar Consensus Protocol
