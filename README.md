@@ -300,7 +300,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [BlockEQ](https://www.blockeq.com/) 
   
 - Trading Bots
-  - [Kelp (free & open-source)](https://kelpbot.io/)
+  - [Kelp (free & open-source)](https://kelpbot.io/) - Kelp is a trading bot for the Stellar universal marketplace. 
+  - [Rockfish (free & open-source)](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX). 
   
 ## Videos, Podcasts, and AMAs
 
