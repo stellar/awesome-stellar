@@ -129,6 +129,8 @@ If you're new to Stellar start here 👇
 
 - [How SatoshiPay is Using Stellar to Transform Online Publishing](https://youtu.be/aaCc0s1bWAs)
 
+- [How Saldo is Using Stellar to Reimagine Cross-border Payments](https://youtu.be/y9FpIEv-TFw)
+
 - [Central Bank Digital Currencies](http://thinktank.omfif.org/ibm)
 
 - [Charting the Evolution of Programmable Money](https://www.ibm.com/thought-leadership/institute-business-value/report/programmoneyevo)
