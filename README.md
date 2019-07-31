@@ -154,7 +154,7 @@ If you're new to Stellar start here 👇
 
 - [Stellarbeat](https://stellarbeat.io/) - Information about nodes and validators on the network - includes a quorum monitor. 
 
-- [Galactic Vision](galactic.vision) - A 3D network and quorum explorer. 
+- [Galactic Vision](http://galactic.vision) - A 3D network and quorum explorer. 
 
 
 ## Developer Resources 
