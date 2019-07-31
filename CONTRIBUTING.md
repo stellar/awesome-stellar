@@ -13,5 +13,6 @@ Contributions are welcomed and encouraged. The goal is to maintain an up-to-date
 - Double check spelling and links 
   - Even ones already included in the list - we all make typos. 
 
-- No project shilling
+- No blatant project shilling
+  - We want to promote awesome Stellar projects, but keep it professional. 
   - If submitting a project or token of some sort, only a brief description is permitted. 
