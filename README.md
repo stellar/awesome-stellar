@@ -193,7 +193,10 @@ If you're new to Stellar start here 👇
     - [Ticker API Documentation](https://github.com/stellar/go/blob/master/services/ticker/docs/API.md) 
     - [Assets Endpoint](https://ticker.stellar.org/assets.json) - Displays information about all assets available. 
     - [Markets Endpoint](https://ticker.stellar.org/markets.json) - Displays 24-hour, 7-day and orderbook information about markets that were active during these periods. 
-    
+ 
+ - Useful Tools
+    - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
+
 - Educational Resources 
   - [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
       - [How and Why to Complete Your Stellar.toml](https://www.stellar.org/developers/guides/walkthroughs/how-to-complete-stellar-toml.html)
