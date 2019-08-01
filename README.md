@@ -143,7 +143,7 @@ If you're new to Stellar start here 👇
 
 - [Stellar Network: Growth and Decentralization](https://medium.com/@SatoshiPay/stellar-network-growth-and-decentralisation-e99c52ade798)
 
-- [XLM launches on the back of a game-changing partnership](https://wirexapp.com/blog/post/xlm-launches-on-the-back-of-a-game-changing-partnership-0150)
+- [XLM launches on the back of a game-changing partnership (Wirex)](https://wirexapp.com/blog/post/xlm-launches-on-the-back-of-a-game-changing-partnership-0150)
 
 
 ## Network Statistics 
