@@ -17,6 +17,7 @@
 - [Case Studies and Insights](#case-studies-and-insights)
 - [Network Statistics](#network-statistics)
 - [Developer Resources](#developer-resources)
+- [Developer Educational Resources](#developer-educational-resources)
 - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
 - [Projects Building on Stellar](#projects-building-on-stellar)
 - [Stellar Asset Issuers (Anchors)](#stellar-asset-issuers-anchors)
@@ -190,14 +191,16 @@ If you're new to Stellar start here 👇
     - [Astrograph Github Repo](https://github.com/astroband/astrograph) 
   
   - [Stellar Ticker API](https://ticker.stellar.org/) - Provides the freshest data about Markets, Issuers and Assets on the Stellar Network.
+    - [GraphiQL for Stellar Ticker](https://ticker.stellar.org/graphiql) - an in-browser tool for writing, validating, and testing GraphQL queries.
     - [Ticker API Documentation](https://github.com/stellar/go/blob/master/services/ticker/docs/API.md) 
     - [Assets Endpoint](https://ticker.stellar.org/assets.json) - Displays information about all assets available. 
     - [Markets Endpoint](https://ticker.stellar.org/markets.json) - Displays 24-hour, 7-day and orderbook information about markets that were active during these periods. 
  
  - Useful Tools
+    - [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) - An open-source wrapper for the JavaScript Stellar SDK. 
     - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
 
-- Educational Resources 
+## Developer Educational Resources 
   - [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
       - [How and Why to Complete Your Stellar.toml](https://www.stellar.org/developers/guides/walkthroughs/how-to-complete-stellar-toml.html)
       - [How to Connect Your Anchor Service to Stellar Wallets](https://www.stellar.org/developers/guides/walkthroughs/connect-to-wallets.html) 
@@ -275,6 +278,10 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [Apay (Papaya Anchor)](https://apay.io/in) - Papaya anchors multiple crypto assets to the network including BTC, LTC, and ETH.
 
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
+
+- [Cowrie](https://cowrie.exchange/) - Cowrie anchors NGNT, an asset backed digital token pegged to the Nigerian Naira. 
+
+- [Stellarport](https://stellarport.io) - Stellarport anchors assets such as BTC, ETH, and LTC. 
 
 - [MINTX](https://mintx.co/) - MINTX supplies GOLD, SVLR, PLAT and PALL tokens priced to the physical metals global spot price +3%. 
 
