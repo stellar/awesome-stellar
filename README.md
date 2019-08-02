@@ -170,6 +170,8 @@ If you're new to Stellar start here 👇
 
 - [Stellar Docs](https://github.com/stellar/docs) - Stellar documentation. 
 
+- [Stellar Laboratory](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network.
+
 - Stellar SDKs 
   - [JavaScript SDK](https://www.stellar.org/developers/js-stellar-sdk/reference/) 
   - [Go SDK](https://www.stellar.org/developers/go/reference/)
