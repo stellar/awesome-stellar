@@ -193,7 +193,7 @@ If you're new to Stellar start here 👇
   - [Astrograph](https://astrograph.io/) - A GraphQL interface to the Stellar network. 
     - [Astrograph Github Repo](https://github.com/astroband/astrograph) 
       
-  - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - :cyclone: A library that is a bridge between Stellar and IPFS. 
+  - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - A library that is a bridge between Stellar and IPFS. 
     - [go-stellar-ipfs Github Repo](https://github.com/aanupam23/go-stellar-ipfs)
   
   - [Stellar Ticker API](https://ticker.stellar.org/) - Provides the freshest data about Markets, Issuers and Assets on the Stellar Network.
