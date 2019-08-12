@@ -205,6 +205,11 @@ If you're new to Stellar start here 👇
  - Useful Tools
     - [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) - An open-source wrapper for the JavaScript Stellar SDK. 
     - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
+    - [Cosmic.plus libraries](https://cosmic.plus/#libraries)
+      - cosmic-lib: implement CosmicLink & SEP-0007.
+      - ledger-wallet: Ledger Wallets support in two lines of code.
+      - loopcall: Limitless/advanced queries to horizon.
+      - oc-multisig: On-chain multisig account coordination.
 
 ## Developer Educational Resources 
   - [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
