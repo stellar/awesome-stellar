@@ -340,6 +340,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [Making cross-border payments seamless | Blockchain Pulse Podcast S01E02](https://youtu.be/uwExNUOYEMQ)
   - [#004 - Stellar - Founder Jed McCaleb](https://blockzero.simplecast.com/episodes/004-stellar-founder-jed-mccaleb-ceaed0cc)
   - [Lisa Nestor podcast with Matt Case](https://www.spreaker.com/user/11246218/lisa-nestor-stellar_1)
+  - [Tempo Director Anthony Barker with Finance Magnates](https://soundcloud.com/finance-magnates/blockchain-podcast-66-tempo-director-anthony-barker)
   
 - AMAs
   - [Blockchain Week NYC 2019 - Q&A with Jed McCaleb (Video)](https://youtu.be/OrpHfZcywJw) 
