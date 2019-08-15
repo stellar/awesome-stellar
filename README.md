@@ -312,7 +312,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [StellarX IOS](https://apps.apple.com/us/app/stellarx/id1459181040) & [StellarX Android](https://play.google.com/store/apps/details?id=com.stellarx.app) - StellarX Wallet is a secure wallet built on top of the Stellar Network. It allows you to easily create an account or login with existing StellarX account and is a perfect compliment to the web app.
   
 - [BlockEQ](https://www.blockeq.com/) - BlockEQ is a private Stellar wallet that allows you to easily create or access an account with a recovery phrase. With BlockEQ you can send, receive, and trade XLM and Stellar tokens on the SDEX, Stellar’s decentralized exchange.
-  
+
+- [Litemint](https://litemint.com/) - Litemint is an [open source](https://github.com/litemint/litemint), non-custodial wallet allowing you to store any Stellar asset and trade on the SDEX. It also offers an app and game ecosystem powered by decentralized cross-currency purchases through Stellar path payments.
 
 ## Use the Stellar Decentralized Exchange 
 
