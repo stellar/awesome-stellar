@@ -183,6 +183,7 @@ If you're new to Stellar start here 👇
   - [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk)
   - [Scala SDK](https://github.com/synesso/scala-stellar-sdk)
   - [C++ SDK](https://github.com/bnogalm/StellarQtSDK)
+  - [Unity C# SDK Integration](https://github.com/Kirbyrawr/stellar-unity)
   
 - Interact with the Stellar Network 
   - [Horizon API](https://horizon.stellar.org/) - Horizon allows you to submit transactions to the network, check the status of accounts, and subscribe to event streams. Servers hosted in the US. 
