@@ -211,6 +211,7 @@ If you're new to Stellar start here 👇
       - ledger-wallet: Ledger Wallets support in two lines of code.
       - loopcall: Limitless/advanced queries to horizon.
       - oc-multisig: On-chain multisig account coordination.
+    - [Create Stellar Token (Testnet)](https://github.com/msfeldstein/create-stellar-token) - Script that creates a custom Stellar token on testnet. 
 
 ## Developer Educational Resources 
   - [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
