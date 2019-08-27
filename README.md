@@ -224,6 +224,8 @@ If you're new to Stellar start here 👇
   
   - [Explore Stellar Addresses and the Stellar DEX using Python](https://medium.com/@kolten/explore-stellar-addresses-and-the-stellar-dex-using-python-e72611822b48) - In this tutorial you'll be creating a script that takes in a Stellar address and returns the XLM balance. You will also convert that XLM balance to USD using the new ticker API for the Stellar DEX.
   
+  - [Stream Ledger Data from the Stellar Network Using Python](https://medium.com/@kolten/stream-ledger-data-from-the-stellar-network-using-python-861af04c40ab) 
+  
   - [Stellar payments — thoughts on federation, QR Codes, URIs, and Point of Sale systems within the Stellar.org ecosystem](https://medium.com/lumenauts/stellar-payments-thoughts-on-federation-qr-codes-uris-and-point-of-sale-systems-within-the-2c6fcdc3fa4d)
   
   - [Sending Secret and Anonymous Memos with Stellar](https://medium.com/lumenauts/sending-secret-and-anonymous-memos-with-stellar-8914479e949b) 
