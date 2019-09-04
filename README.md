@@ -285,6 +285,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar. 
 
+- [Skyhitz](https://skyhitz.io/) - Skyhitz is a mobile platform where musicians can earn Stellar Lumens from their music videos. 
+
 ## Stellar Asset Issuers (Anchors)
 
 - [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
