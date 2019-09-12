@@ -5,6 +5,8 @@
 
 <p align="center">Awesome Stellar is a curated list of Stellar applications, blog posts, educational resources, tools, and more.</p>
 
+<p align="center">You can share this list using <a href="awesomestellar.com">awesomestellar.com</a>.</p>
+
 <div align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a></div> 
 
 ## 👨‍🚀 Contents
