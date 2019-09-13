@@ -39,7 +39,6 @@ Stellar Meridian is a two-day conference taking place November 4-5, 2019 in Mexi
 
 ## Official Channels
 - [Stellar Website](https://www.stellar.org/)
-- [(BETA) Stellar Website](https://beta.stellar.org/)
 - [Github](https://github.com/stellar)
 - [Twitter](https://twitter.com/StellarOrg)
 - [Keybase](https://keybase.io/team/stellar.public)
