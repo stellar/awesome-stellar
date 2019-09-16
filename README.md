@@ -208,6 +208,7 @@ If you're new to Stellar start here 👇
  - Useful Tools
     - [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) - An open-source wrapper for the JavaScript Stellar SDK. 
     - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
+    - [Tree3 CLI (open-source)](https://github.com/tree3network/tree3) - Tree3 CLI provides various options on Stellar Network for storage and management of digital identity, content and syncing data between (tree3) nodes.
     - [Cosmic.plus libraries](https://cosmic.plus/#libraries)
       - cosmic-lib: implement CosmicLink & SEP-0007.
       - ledger-wallet: Ledger Wallets support in two lines of code.
@@ -281,6 +282,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
 
+- [Tree3 Network](https://tree3.network) - A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS.
+
 - [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
 
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
@@ -340,6 +343,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - Trading Bots
   - [Kelp (free & open-source)](https://kelpbot.io/) - Kelp is a trading bot for the Stellar universal marketplace. 
   - [Rockfish (free & open-source)](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX). 
+
   
 ## Videos, Podcasts, and AMAs
 
