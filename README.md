@@ -209,6 +209,7 @@ If you're new to Stellar start here 👇
     - [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) - An open-source wrapper for the JavaScript Stellar SDK. 
     - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
     - [Tree3 CLI (open-source)](https://github.com/tree3network/tree3) - Tree3 CLI provides various options on Stellar Network for storage and management of digital identity, content and syncing data between (tree3) nodes.
+    - [Tree3 Notification (open-source)](https://github.com/tree3network/tree3-notification) - Tree3 Notification is an application that allows payment notification of a Stellar Account using offchain data fields.
     - [Cosmic.plus libraries](https://cosmic.plus/#libraries)
       - cosmic-lib: implement CosmicLink & SEP-0007.
       - ledger-wallet: Ledger Wallets support in two lines of code.
