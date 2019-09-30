@@ -75,20 +75,20 @@ Stellar Meridian is a two-day conference taking place November 4-5, 2019 in Mexi
 If you're new to Stellar start here 👇
 
 - Quick Summaries 
-  - [Learn how Stellar unites the world’s financial infrastructure.](https://beta.stellar.org/overview)
+  - [Learn how Stellar unites the world’s financial infrastructure.](https://www.stellar.org/overview)
   - [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
   - [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
   - [Crypto Explained - What is Stellar?](https://ummjackson.com/crypto-explained/what-is-stellar)
   - [Coinbase Earn - What is Stellar?](https://www.coinbase.com/earn/stellar/lesson/1)
   
 - Intro to Stellar Assets & Anchors
-  - [What are Stellar Lumens?](https://beta.stellar.org/lumens) 
-  - [Asset Issuance Explainer](https://beta.stellar.org/explainers/asset-issuance) 
+  - [What are Stellar Lumens?](https://www.stellar.org/lumens) 
+  - [Asset Issuance Explainer](https://www.stellar.org/explainers/asset-issuance) 
   - [Stellar Assets and Anchors](https://youtu.be/Cf9CdFVse-w) 
   - [How banks, businesses, and people use Stellar](https://www.coinbase.com/earn/stellar/lesson/4)
   
 - Intro to the Stellar Decentralized Exchange 
-  - [Decentralized Trading Explainer](https://beta.stellar.org/explainers/decentralized-trading) 
+  - [Decentralized Trading Explainer](https://www.stellar.org/explainers/decentralized-trading) 
   - [How the Stellar Decentralized Exchange (DEX) Works](https://youtu.be/2L8-lrmzeWk)
   - [How to Buy and Sell on the Stellar Decentralized Exchange](https://www.lumenauts.com/guides/how-to-buy-and-sell-on-the-stellar-decentralized-exchange)
 
