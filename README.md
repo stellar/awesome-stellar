@@ -80,6 +80,7 @@ If you're new to Stellar start here 👇
   - [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
   - [Crypto Explained - What is Stellar?](https://ummjackson.com/crypto-explained/what-is-stellar)
   - [Coinbase Earn - What is Stellar?](https://www.coinbase.com/earn/stellar/lesson/1)
+  - [A Primer on the Stellar Network](https://snarky.ca/a-primer-on-stellar/)
   
 - Intro to Stellar Assets & Anchors
   - [What are Stellar Lumens?](https://www.stellar.org/lumens) 
