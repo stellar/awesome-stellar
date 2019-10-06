@@ -277,6 +277,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Token](https://token.io/) - An open banking and digital money platform that delivers the infrastructure for lower cost, instant and more secure payments.
 
+- [DealBox](https://dlbx.io/) - A feature-rich digital securities issuance and investment platform connecting entrepreneurs and investors to enable the future of investing and capital formation.
+
 - [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company.  It offers online, offline and crypto remittances to nearly 100 countries.
 
 - [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
