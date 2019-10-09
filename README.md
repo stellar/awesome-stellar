@@ -108,6 +108,8 @@ If you're new to Stellar start here 👇
 
 - [Help! I forgot my Stellar memo.](https://medium.com/stellar-community/help-i-forgot-my-stellar-memo-d62b3cc9c2f7)
 
+- [A Guide to Trustlines on Stellar](https://medium.com/stellar-community/a-guide-to-trustlines-on-stellar-8bc46091a86f) 
+
 - [How Changes are Made to the Stellar Network](https://medium.com/stellar-community/how-changes-are-made-to-the-stellar-network-760abbb8d127) 
 
 - [How to Stay Safe on Stellar](https://www.lumenauts.com/blog/how-to-stay-safe-on-stellar)
