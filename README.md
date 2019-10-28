@@ -32,7 +32,7 @@
 <div align="center"><a href="https://meridian.stellar.org/"><img width="100%" align="center" src="meridian_header.PNG"></a></div>
 <br>
 
-[Introducing Meridian](https://medium.com/stellar-development-foundation/introducing-meridian-24c3396b868d). A new financial future is coming, and it's built on Stellar. Let's talk about it at [Meridian](https://meridian.stellar.org/). Agenda coming soon. [Buy tickets now!](https://www.eventbrite.com/e/meridian-tickets-66494150795)
+[Introducing Meridian](https://medium.com/stellar-development-foundation/introducing-meridian-24c3396b868d). A new financial future is coming, and it's built on Stellar. Let's talk about it at [Meridian](https://meridian.stellar.org/). See the agenda [here!](https://meridian.stellar.org/agenda)
 
 Stellar Meridian is a two-day conference taking place November 4-5, 2019 in Mexico City. 
 
