@@ -28,15 +28,6 @@
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
 
 
-## Stellar Meridian
-<div align="center"><a href="https://meridian.stellar.org/"><img width="100%" align="center" src="meridian_header.PNG"></a></div>
-<br>
-
-[Introducing Meridian](https://medium.com/stellar-development-foundation/introducing-meridian-24c3396b868d). A new financial future is coming, and it's built on Stellar. Let's talk about it at [Meridian](https://meridian.stellar.org/). See the agenda [here!](https://meridian.stellar.org/agenda)
-
-Stellar Meridian is a two-day conference taking place November 4-5, 2019 in Mexico City. 
-
-
 ## Official Channels
 - [Stellar Website](https://www.stellar.org/)
 - [Github](https://github.com/stellar)
