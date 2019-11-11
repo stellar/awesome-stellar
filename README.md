@@ -97,12 +97,9 @@ If you're new to Stellar start here 👇
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
   - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
 
-- Intro to Inflation 
-  - [What is Inflation?](https://www.lumenauts.com/guides/how-inflation-works) 
-  - [FAQ - Inflation & Inflation Pool](https://pool.lumenaut.net/#faq)
-  - [Lumenaut Pool](https://pool.lumenaut.net/) - 100% inflation payout, no fees. By the community, for the community. 
-
 ## Blogs and Beginner Guides 
+
+- [SDF's Next Steps](https://www.stellar.org/blog/sdfs-next-steps/)
 
 - [The Future of Money](https://medium.com/stellar-community/the-future-of-money-a8fe27ee8f1)
 
@@ -123,6 +120,8 @@ If you're new to Stellar start here 👇
 - [How to Use Lumens on the Ledger Nano S](https://www.lumenauts.com/guides/how-to-use-lumens-on-the-ledger-nano-s)
 
 - [How could Kelp bot help Stellar?](https://medium.com/stellar-community/how-could-kelp-bot-help-stellar-ba9bec513041)
+
+- [Stellar’s Plan to Win Global Payments](https://www.coindesk.com/stellars-plan-to-win-global-payments-play-nice-with-the-finance-cops)
 
 
 ## Case Studies and Insights
@@ -164,6 +163,8 @@ If you're new to Stellar start here 👇
 
 
 ## Developer Resources 
+
+- [Stellar Dev Digest](https://stellar.us9.list-manage.com/subscribe?u=c001d97369b7a10d224c23867&id=e1f435dc0a) - Weekly newsletter covering all things around the Stellar developer ecosystem. 
 
 - [Stellar Github](https://github.com/Stellar) 
 
@@ -292,6 +293,9 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
 
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
+
+- [Illmatic](https://ilmatic.com/) - Illmatic is a wallet and point-of-sale app that enables users to make p2p cash-like payments.
+
 
 - [Blockdaemon](https://blockdaemon.com/stellar-node-deployment/) - Spin up and deploy Stellar nodes within minutes. 
 
