@@ -48,13 +48,15 @@
 
 - [Stellar Community Fund](https://www.stellar.org/foundation/programs/community-fund#overview) - An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community. 
   - [Round 1 Winners](https://medium.com/stellar-community/stellar-community-fund-round-1-winners-1957314d15cc)
-  - [Round 2 Announcement](https://galactictalk.org/d/2037-scf-round-2-guidelines)
-  - [Round 2 Proposals](https://galactictalk.org/t/proposals)
+  - [Round 2 Winners](https://medium.com/stellar-community/stellar-community-fund-2-the-results-69b3f6a6040e) 
+  - [Round 3 Announcement](https://galactictalk.org/d/2194-stellar-community-fund-round-3-guidelines)
   
 - [Stellar Torch](http://stellartorch.com/) - A Stellar community experiment. The Stellar Torch is a transaction that is sent from person to person.
   - [The Stellar Torch is Lit](https://www.reddit.com/r/Stellar/comments/c5r2z0/the_stellar_torch_is_lit/)
   
 - [Stellar Keybase Team](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
+
+- [Stellar Global Keybase Team](https://keybase.io/team/stellar_global) - A community run Keybase team to discuss all things Stellar.
 
 - [Reddit](https://www.reddit.com/r/Stellar/) - Stellar Subreddit with 100,000+ members. 
 
