@@ -161,6 +161,8 @@ If you're new to Stellar start here 👇
 
 - [Stellar Core](https://github.com/stellar/stellar-core) - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
+- [Astrocore](https://github.com/astroband/astrocore) - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
+
 - [Stellar Protocol](https://github.com/stellar/stellar-protocol) - Developer discussion about possible changes to the protocol.
    - [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) 
    - [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md)
@@ -271,11 +273,15 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Token](https://token.io/) - An open banking and digital money platform that delivers the infrastructure for lower cost, instant and more secure payments.
 
+- [Settle Network](https://settlenetwork.com/) - Settle provides programmatic interoperability between traditional and digital assets, by leveraging our financial infrastructure in every country we operate. 
+
 - [DealBox](https://dlbx.io/) - A feature-rich digital securities issuance and investment platform connecting entrepreneurs and investors to enable the future of investing and capital formation.
 
 - [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company.  It offers online, offline and crypto remittances to nearly 100 countries.
 
 - [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
+
+- [OptionBlox](https://option-blox.webflow.io/) - Expanded derivative options including assets with positive and negative correlations to cryptocurrency. 
 
 - [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
 
@@ -286,7 +292,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
 
 - [Illmatic](https://ilmatic.com/) - Illmatic is a wallet and point-of-sale app that enables users to make p2p cash-like payments.
-
 
 - [Blockdaemon](https://blockdaemon.com/stellar-node-deployment/) - Spin up and deploy Stellar nodes within minutes. 
 
