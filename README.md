@@ -255,6 +255,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [Simplified SCP](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html)
   - [Understanding the Stellar Consensus Protocol](https://medium.com/interstellar/understanding-the-stellar-consensus-protocol-423409aad32e)
   - [Why Quorums Matter and How Stellar Approaches Them](https://medium.com/stellar-developers-blog/why-quorums-matter-and-how-stellar-approaches-them-547336c1275)
+  - [Intuitive Stellar Consensus Protocol](https://medium.com/stellar-developers-blog/intuitive-stellar-consensus-protocol-d7fbf99a60ce)
 
 - Talks by David Mazières
   - [ConsensusDay 1 // Stellar Consensus Protocol - David Mazieres](https://youtu.be/rLRPFsloyqk)
