@@ -220,7 +220,7 @@ If you're new to Stellar start here 👇
       - ledger-wallet: Ledger Wallets support in two lines of code.
       - loopcall: Limitless/advanced queries to horizon.
       - oc-multisig: On-chain multisig account coordination.
-     - [Cosmic.plus applications](https://cosmic.plus/#applications)
+    - [Cosmic.plus applications](https://cosmic.plus/#applications)
       - Equilibre.io: wallet-independent portfolio balancer for Stellar (first app to use delegated signing)
       - Cosmic.link: CosmicLink protocol frontend.
       - Stellar Authenticator: Security-oriented wallet. (+ useful dev tool)
