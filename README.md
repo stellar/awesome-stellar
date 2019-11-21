@@ -282,6 +282,10 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Settle Network](https://settlenetwork.com/) - Settle provides programmatic interoperability between traditional and digital assets, by leveraging our financial infrastructure in every country we operate. 
 
+- [Stellar Auth](https://stellarauth.com/) - StellarAuth increases user security and enables key management across applications and user actions with more grace and simplicity than any 2FA system out there.
+
+- [RealtyBits](https://www.realtybits.com/) - RealtyBits is the first blockchain based marketplace for buying and selling real estate assets with digital currencies from anywhere in the world.
+
 - [DealBox](https://dlbx.io/) - A feature-rich digital securities issuance and investment platform connecting entrepreneurs and investors to enable the future of investing and capital formation.
 
 - [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company.  It offers online, offline and crypto remittances to nearly 100 countries.
