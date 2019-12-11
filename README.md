@@ -278,8 +278,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [SatoshiPay](https://satoshipay.io/) - Global, fast and easy micropayment solutions. 
 
-- [Token](https://token.io/) - An open banking and digital money platform that delivers the infrastructure for lower cost, instant and more secure payments.
-
 - [Settle Network](https://settlenetwork.com/) - Settle provides programmatic interoperability between traditional and digital assets, by leveraging our financial infrastructure in every country we operate. 
 
 - [StellarAuth](https://stellarauth.com/) - StellarAuth increases user security and enables key management across applications and user actions with more grace and simplicity than any 2FA system out there.
@@ -313,8 +311,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 ## Stellar Asset Issuers (Anchors)
 
 - [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
-
-- [Token X](https://token.io/x) - Token X is backed 1:1 by fiat money and independently audited to confirm that assets in escrow match the outstanding stablecoins. All major currencies are supported.
 
 - [Tempo](https://tempo.eu.com/en) - Tempo's EURT is a stable coin, backed by on hand cash, 1 EURT = 1 EUR. 
 
