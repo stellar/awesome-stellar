@@ -284,6 +284,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [RealtyBits](https://www.realtybits.com/) - RealtyBits is the first blockchain based marketplace for buying and selling real estate assets with digital currencies from anywhere in the world.
 
+- [Kapilendo](https://www.kapilendo.de/) - Kapilendo is a banking platform for SMEs and issued its first blockchain-based digital bond on Stellar.
+
 - [DealBox](https://dlbx.io/) - A feature-rich digital securities issuance and investment platform connecting entrepreneurs and investors to enable the future of investing and capital formation.
 
 - [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company.  It offers online, offline and crypto remittances to nearly 100 countries.
