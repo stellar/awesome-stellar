@@ -299,8 +299,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
 
-- [OptionBlox](https://option-blox.webflow.io/) - Expanded derivative options including assets with positive and negative correlations to cryptocurrency. 
-
 - [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
 
 - [Tree3 Network](https://tree3.network) - A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS.
