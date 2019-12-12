@@ -33,7 +33,7 @@
 - [Github](https://github.com/stellar)
 - [Twitter](https://twitter.com/StellarOrg)
 - [Keybase](https://keybase.io/team/stellar.public)
-- [Medium](https://medium.com/stellar-development-foundation) 
+- [SDF Blog](https://www.stellar.org/blog/) 
 - [Stellar Community Blog](https://medium.com/stellar-community)
 - [Stellar Developers Blog](https://medium.com/stellar-developers-blog)
 - [Reddit](https://www.reddit.com/r/Stellar/)
@@ -53,6 +53,7 @@
   
 - [Stellar Torch](http://stellartorch.com/) - A Stellar community experiment. The Stellar Torch is a transaction that is sent from person to person.
   - [The Stellar Torch is Lit](https://www.reddit.com/r/Stellar/comments/c5r2z0/the_stellar_torch_is_lit/)
+  - [Stellar Torch featured on CoinDesk](https://www.coindesk.com/stellars-version-of-bitcoins-lightning-torch-has-been-burning-quietly-since-june)
   
 - [Stellar Keybase Team](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
 
