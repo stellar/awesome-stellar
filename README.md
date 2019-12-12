@@ -251,9 +251,11 @@ If you're new to Stellar start here 👇
 
 The Stellar Consensus Protocol (SCP) provides a way to reach consensus without relying on a closed system to accurately record financial transactions. SCP simultaneously enjoys four key properties: decentralized control, low latency, flexible trust, and asymptotic security.
 
-- [White Paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
+- [White Paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) 
 
 - [Fast and secure global payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf)
+
+- [Mathematical Analysis and Algorithms for Federated Byzantine Agreement Systems](https://arxiv.org/abs/1912.01365)
 
 - Blog Posts 
   - [Simplified SCP](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html)
