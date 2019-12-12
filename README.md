@@ -377,6 +377,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [Jed McCaleb: How Many Lumens Till Stellar (2017)](https://youtu.be/-0JrcV-Ozoc)
   
 - Podcasts 
+  - [Money 3.0: Denelle Dixon from the Stellar Development Foundation](https://www.abra.com/blog/money-3-0-denelle-dixon-stellar-development-foundation/)
   - [Thriller Blockchain Week - S2EP 01: Kori and Kyle from Stellar](https://thrillerpodcast.simplecast.com/episodes/thriller-blockchain-week-s2ep-01-kori-a)
   - [Jed McCaleb: Stellar And The Vision Of An Open Financial System](https://youtu.be/dHkrrMg9RUw)
   - [Making cross-border payments seamless | Blockchain Pulse Podcast S01E02](https://youtu.be/uwExNUOYEMQ)
