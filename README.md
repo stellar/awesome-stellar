@@ -130,6 +130,8 @@ If you're new to Stellar start here 👇
 
 - [How Saldo is Using Stellar to Reimagine Cross-border Payments](https://youtu.be/y9FpIEv-TFw)
 
+- [Onboarding everyone - the StellarX Mission](https://youtu.be/HNRmJMAJ5rw)
+
 - [Central Bank Digital Currencies](http://thinktank.omfif.org/ibm)
 
 - [Charting the Evolution of Programmable Money](https://www.ibm.com/thought-leadership/institute-business-value/report/programmoneyevo)
@@ -148,6 +150,8 @@ If you're new to Stellar start here 👇
 ## Network Statistics 
 
 - [Stellar Dashboard](https://dashboard.stellar.org/) - Monitors network status, ledger close times, fee stats, lumen distribution and more.
+
+- [Stellar Status Updates](https://status.stellar.org/) - Get status updates on the Stellar network, Horizon, the test network, and more.
 
 - [StellarExpert](https://stellar.expert/explorer/public/) - Block explorer and analytics platform for the Stellar network. 
 
