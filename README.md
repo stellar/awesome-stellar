@@ -230,7 +230,9 @@ If you're new to Stellar start here 👇
       - [How and Why to Complete Your Stellar.toml](https://www.stellar.org/developers/guides/walkthroughs/how-to-complete-stellar-toml.html)
       - [How to Connect Your Anchor Service to Stellar Wallets](https://www.stellar.org/developers/guides/walkthroughs/connect-to-wallets.html) 
       - [Creating Custom Assets on Stellar](https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html) 
-    
+  
+  - [Stellar Developer Workshop with Tomer Weller](https://youtu.be/80FKQeghK_4)
+  
   - [Building your own Venmo with Stellar](https://blog.abuiles.com/building-your-own-venmo-with-stellar/) - This tutorial will show you how to create an anchor maintaining a Stellar account for each customer, hiding the implementation details. It will use the programming language JavaScript and the mobile wallet will be written using React Native.
   
   - [Explore Stellar Addresses and the Stellar DEX using Python](https://medium.com/@kolten/explore-stellar-addresses-and-the-stellar-dex-using-python-e72611822b48) - In this tutorial you'll be creating a script that takes in a Stellar address and returns the XLM balance. You will also convert that XLM balance to USD using the new ticker API for the Stellar DEX.
