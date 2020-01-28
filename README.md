@@ -14,7 +14,7 @@
 - [Stellar Meridian](#stellar-meridian)
 - [Official Channels](#official-channels)
 - [Community](#community)
-- [General Overview](#general-overview)
+- [General Overview](#general-overview) ⭐
 - [Blogs and Beginner Guides](#blogs-and-beginner-guides)
 - [Case Studies and Insights](#case-studies-and-insights)
 - [Network Statistics](#network-statistics)
