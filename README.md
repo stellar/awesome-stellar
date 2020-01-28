@@ -93,6 +93,8 @@ If you're new to Stellar start here 👇
 
 ## Blogs and Beginner Guides 
 
+- [A Stellar 2019 — Year in Review](https://medium.com/stellar-community/a-stellar-2019-the-dev-digest-year-in-review-1ac4ac869ebd)
+
 - [SDF's Next Steps](https://www.stellar.org/blog/sdfs-next-steps/)
 
 - [The Future of Money](https://medium.com/stellar-community/the-future-of-money-a8fe27ee8f1)
@@ -230,6 +232,8 @@ If you're new to Stellar start here 👇
       - [How and Why to Complete Your Stellar.toml](https://www.stellar.org/developers/guides/walkthroughs/how-to-complete-stellar-toml.html)
       - [How to Connect Your Anchor Service to Stellar Wallets](https://www.stellar.org/developers/guides/walkthroughs/connect-to-wallets.html) 
       - [Creating Custom Assets on Stellar](https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html) 
+      
+  - [How Stellar.org Recovers From a Testnet Reset](https://www.stellar.org/developers/blog/how-stellar-org-recovers-from-a-testnet-reset)
   
   - [Stellar Developer Workshop with Tomer Weller](https://youtu.be/80FKQeghK_4)
   
@@ -285,6 +289,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet. 
 
+- [Paysapp](https://github.com/kuyawa/paysapp) - Send money to more than a billion people in the world via Whatsapp, any currency, any asset, in seconds using the Stellar Network.
+
 - [SatoshiPay](https://satoshipay.io/) - Global, fast and easy micropayment solutions. 
 
 - [Settle Network](https://settlenetwork.com/) - Settle provides programmatic interoperability between traditional and digital assets, by leveraging our financial infrastructure in every country we operate. 
@@ -313,7 +319,11 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Blockdaemon](https://blockdaemon.com/stellar-node-deployment/) - Spin up and deploy Stellar nodes within minutes. 
 
+- [Public Node](https://publicnode.org/) - Stellar nodes funded by the community. 
+
 - [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar. 
+
+- [Stellar Battle](https://stellarbattle.com/) - Win community funded prizes. 
 
 - [Skyhitz](https://skyhitz.io/) - Skyhitz is a mobile platform where musicians can earn Stellar Lumens from their music videos. 
 
