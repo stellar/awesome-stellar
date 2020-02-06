@@ -384,6 +384,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 ## Videos, Podcasts, and AMAs
 
 - Videos
+  - [Denelle Dixon shares the growth strategy for the Stellar network in 2020](https://youtu.be/-KQPlI1_cWI) 
   - [SFBW19 - Fireside Chat: Jed McCaleb & Denelle Dixon](https://youtu.be/K46cND9OjLE) 
   - [Crypto Assets: How are They Being Used to Make Payments on Blockchain?](https://youtu.be/geQD--3Ai6o)
   - [What is IBM Blockchain World Wire?](https://youtu.be/IDq5MxmUSe8) 
