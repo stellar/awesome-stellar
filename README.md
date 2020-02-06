@@ -44,6 +44,10 @@
 
 
 ## Community 
+- [Stellar Community Podcast](https://stellar-community-podcast.simplecast.com/) - A weekly podcast that discusses the news, applications, and developers building the future of finance on Stellar.
+
+- [Inside Stellar](http://insidestellar.co/) - A community run podcast that interviews Stellar People building Stellar Projects.
+
 - [Galactic Talk](https://galactictalk.org/) - A community of Stellar users, developers and traders.
 
 - [Stellar Community Fund](https://www.stellar.org/foundation/programs/community-fund#overview) - An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community. 
@@ -70,6 +74,7 @@ If you're new to Stellar start here 👇
 
 - Quick Summaries 
   - [Learn how Stellar unites the world’s financial infrastructure.](https://www.stellar.org/overview)
+  - [The Power of Stellar](https://www.stellar.org/learn/the-power-of-stellar) 
   - [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
   - [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
   - [Crypto Explained - What is Stellar?](https://ummjackson.com/crypto-explained/what-is-stellar)
@@ -78,12 +83,10 @@ If you're new to Stellar start here 👇
   
 - Intro to Stellar Assets & Anchors
   - [What are Stellar Lumens?](https://www.stellar.org/lumens) 
-  - [Asset Issuance Explainer](https://www.stellar.org/explainers/asset-issuance) 
   - [Stellar Assets and Anchors](https://youtu.be/Cf9CdFVse-w) 
   - [How banks, businesses, and people use Stellar](https://www.coinbase.com/earn/stellar/lesson/4)
   
 - Intro to the Stellar Decentralized Exchange 
-  - [Decentralized Trading Explainer](https://www.stellar.org/explainers/decentralized-trading) 
   - [How the Stellar Decentralized Exchange (DEX) Works](https://youtu.be/2L8-lrmzeWk)
   - [How to Buy and Sell on the Stellar Decentralized Exchange](https://www.lumenauts.com/guides/how-to-buy-and-sell-on-the-stellar-decentralized-exchange)
 
