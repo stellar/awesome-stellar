@@ -294,7 +294,13 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet. 
 
+- [DSTOQ](https://dstoq.com/) - DSTOQ is on a mission to introduce micro investing to billions of people around the world. 
+
+- [Money Clip](https://www.moneyclip.io/) - MoneyClip stores Canadian Dollars inside your phone. You can split bills, buy & sell online, and easily pay friends and family using digital cash. It’s quick, secure, and easy to use.
+
 - [Paysapp](https://github.com/kuyawa/paysapp) - Send money to more than a billion people in the world via Whatsapp, any currency, any asset, in seconds using the Stellar Network.
+
+- [Nodle](https://nodle.io/) - Nodle is the world’s largest ecosystem of connected devices, providing infrastructure, software and access to data for the Internet of Things.
 
 - [SatoshiPay](https://satoshipay.io/) - Global, fast and easy micropayment solutions. 
 
@@ -313,8 +319,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
 
 - [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
-
-- [Tree3 Network](https://tree3.network) - A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS.
 
 - [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
 
