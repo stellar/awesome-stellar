@@ -288,6 +288,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Stellar Asset Issuers (Anchors)](#stellar-asset-issuers-anchors) - Financial institutions issuing assets on the Stellar network.
 
+- [Stellar.org Project Directory](https://proxy.stellar.org/ecosystem/projects) - Another project directory maintained on Stellar.org
+
 - [IBM World Wire](https://www.ibm.com/blockchain/solutions/world-wire) - A new financial rail that simultaneously clears and settles cross-border payments in near real-time.
 
 - [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet. 
