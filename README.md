@@ -53,7 +53,7 @@
 - [Stellar Community Fund](https://www.stellar.org/foundation/programs/community-fund#overview) - An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community. 
   - [Round 1 Winners](https://medium.com/stellar-community/stellar-community-fund-round-1-winners-1957314d15cc)
   - [Round 2 Winners](https://medium.com/stellar-community/stellar-community-fund-2-the-results-69b3f6a6040e) 
-  - [Round 3 Announcement](https://galactictalk.org/d/2194-stellar-community-fund-round-3-guidelines)
+  - [Round 3 Winners](https://medium.com/stellar-community/stellar-community-fund-round-3-results-9d99e7cfec32)
   
 - [Stellar Torch](http://stellartorch.com/) - A Stellar community experiment. The Stellar Torch is a transaction that is sent from person to person.
   - [The Stellar Torch is Lit](https://www.reddit.com/r/Stellar/comments/c5r2z0/the_stellar_torch_is_lit/)
@@ -99,6 +99,8 @@ If you're new to Stellar start here 👇
 - [A Stellar 2019 — Year in Review](https://medium.com/stellar-community/a-stellar-2019-the-dev-digest-year-in-review-1ac4ac869ebd)
 
 - [SDF's Next Steps](https://www.stellar.org/blog/sdfs-next-steps/)
+
+- [SDF Joins the Blockchain Association](https://www.stellar.org/blog/sdf-joins-the-blockchain-association) 
 
 - [The Future of Money](https://medium.com/stellar-community/the-future-of-money-a8fe27ee8f1)
 
@@ -215,6 +217,7 @@ If you're new to Stellar start here 👇
     - [Markets Endpoint](https://ticker.stellar.org/markets.json) - Displays 24-hour, 7-day and orderbook information about markets that were active during these periods. 
  
  - Useful Tools
+    - [Hack Stellar Boilerplate](https://github.com/tyvdh/hack-stellar) - This Hack Stellar app is a boilerplate collection of basic Stellar functions. You can either hack this Stencil project into whatever you're trying to build or just cut and paste out the functions from here into your own project.
     - [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) - An open-source wrapper for the JavaScript Stellar SDK. 
     - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
     - [Tree3 CLI (open-source)](https://github.com/tree3network/tree3) - Tree3 CLI provides various options on Stellar Network for storage and management of digital identity, content and syncing data between (tree3) nodes.
