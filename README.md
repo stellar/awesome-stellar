@@ -220,7 +220,7 @@ If you're new to Stellar start here 👇
     - [Hack Stellar Boilerplate](https://github.com/tyvdh/hack-stellar) - This Hack Stellar app is a boilerplate collection of basic Stellar functions. You can either hack this Stencil project into whatever you're trying to build or just cut and paste out the functions from here into your own project.
     - [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) - An open-source wrapper for the JavaScript Stellar SDK. 
     - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
-    - [Tree3 CLI (open-source)](https://github.com/tree3network/tree3) - Tree3 CLI provides various options on Stellar Network for storage and management of digital identity, content and syncing data between (tree3) nodes.
+    - [Stellar transaction signers inspector](https://github.com/stellar-expert/stellar-tx-signers-inspector) - Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.
     - [Cosmic.plus libraries](https://cosmic.plus/#libraries)
       - cosmic-lib: implement CosmicLink & SEP-0007.
       - ledger-wallet: Ledger Wallets support in two lines of code.
@@ -262,6 +262,8 @@ If you're new to Stellar start here 👇
   - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol) - Useful information regarding SCP.
 
   - [How to Create a Custom Token on Stellar in Python](https://medium.com/python-pandemonium/how-to-create-a-custom-token-on-stellar-network-in-python-abf8b2f7a6f8) 
+  
+  - [StellarTxSignersInspector - Facilitating Multisig Discovery](https://stellar.expert/blog/stellar-tx-signers-inspector-facilitating-multisig-discovery) 
   
 
 ## Understanding the Stellar Consensus Protocol
