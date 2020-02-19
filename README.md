@@ -233,7 +233,7 @@ If you're new to Stellar start here 👇
       - Stellar Authenticator: Security-oriented wallet. (+ useful dev tool)
   - Validator Tools
     - [Fast Stellar Core Catch Up](https://github.com/Lobstrco/stellar-core-parallel-catchup-py) - Starting a full stellar core validator from scratch takes a while, as the node needs to download and process a lot of data during the "Catch up" phase. The catching up phase usually takes more than a month. This script helps to make the process significantly shorter, as it allows to perform the catch up of multiple ledgers blocks in parallel.
-    - [Parallel Stellar Core Catchup ⚡](https://github.com/satoshipay/stellar-core-parallel-catchup) - Sync a full Stellar validator node (including full history) as fast as possible. Split the big ledger into small chunks of size CHUNK_SIZE. Run a catchup for the chunks in parallel with WORKERS worker processes. Stitch together the resulting database and history archive.
+    - [Parallel Stellar Core Catchup](https://github.com/satoshipay/stellar-core-parallel-catchup) - Sync a full Stellar validator node (including full history) as fast as possible. Split the big ledger into small chunks of size CHUNK_SIZE. Run a catchup for the chunks in parallel with WORKERS worker processes. Stitch together the resulting database and history archive.
 
 ## Developer Educational Resources 
   - [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
