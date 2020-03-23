@@ -326,6 +326,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
 
+- [COINQVEST](https://www.coinqvest.com) - Enterprise Cryptocurrrency Payment Processing on Stellar. Accept digital currencies, settle in USD, EUR, NGN.
+
 - [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
 
 - [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
