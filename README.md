@@ -95,6 +95,8 @@ If you're new to Stellar start here 👇
 
 ## Blogs and Beginner Guides 
 
+- [Understanding Stellar Path Payments](https://medium.com/stellar-community/understanding-stellar-path-payments-5eefe55b071b)
+
 - [A Stellar 2019 — Year in Review](https://medium.com/stellar-community/a-stellar-2019-the-dev-digest-year-in-review-1ac4ac869ebd)
 
 - [SDF's Next Steps](https://www.stellar.org/blog/sdfs-next-steps/)
