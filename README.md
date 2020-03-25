@@ -11,7 +11,6 @@
 
 ## 👨‍🚀 Contents
 
-- [Stellar Meridian](#stellar-meridian)
 - [Official Channels](#official-channels)
 - [Community](#community)
 - [General Overview](#general-overview) ⭐
