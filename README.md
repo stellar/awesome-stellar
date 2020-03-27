@@ -37,13 +37,14 @@
 - [Stellar Developers Blog](https://medium.com/stellar-developers-blog)
 - [Reddit](https://www.reddit.com/r/Stellar/)
 - [YouTube](https://www.youtube.com/channel/UC4BrVpvKK0r2zP9xVFQcPSA)
+- [Stellar Podast YouTube](https://www.youtube.com/channel/UCHPQ8IGpoPftsid0s43wYpQ)
 - [Instagram](https://www.instagram.com/stellarorg/)
 - [Facebook](https://www.facebook.com/stellarfoundation) 
 - [LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
 
 
 ## Community 
-- [Stellar Community Podcast](https://stellar-community-podcast.simplecast.com/) - A weekly podcast that discusses the news, applications, and developers building the future of finance on Stellar.
+- [The Stellar Podcast](https://stellar-community-podcast.simplecast.com/) - A weekly podcast that discusses the news, applications, and developers building the future of finance on Stellar.
 
 - [Inside Stellar](http://insidestellar.co/) - A community run podcast that interviews Stellar People building Stellar Projects.
 
