@@ -340,7 +340,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Illmatic](https://ilmatic.com/) - Illmatic is a wallet and point-of-sale app that enables users to make p2p cash-like payments.
 
-- [Blockdaemon](https://blockdaemon.com/stellar-node-deployment/) - Spin up and deploy Stellar nodes within minutes. 
+- [Blockdaemon](https://app.blockdaemon.com/marketplace/categories/-/stellar-horizon) - Spin up and deploy Stellar nodes within minutes. 
 
 - [Public Node](https://publicnode.org/) - Stellar nodes funded by the community. 
 
