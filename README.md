@@ -248,6 +248,8 @@ If you're new to Stellar start here 👇
       
   - [How Stellar.org Recovers From a Testnet Reset](https://www.stellar.org/developers/blog/how-stellar-org-recovers-from-a-testnet-reset)
   
+  - [Get Started Building Stellar Applications: New York Blockchain Week Hackathon](https://youtu.be/kDzIpKXOdf0)
+  
   - [Stellar Developer Workshop with Tomer Weller](https://youtu.be/80FKQeghK_4)
   
   - [Building your own Venmo with Stellar](https://blog.abuiles.com/building-your-own-venmo-with-stellar/) - This tutorial will show you how to create an anchor maintaining a Stellar account for each customer, hiding the implementation details. It will use the programming language JavaScript and the mobile wallet will be written using React Native.
