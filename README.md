@@ -281,13 +281,13 @@ If you're new to Stellar start here 👇
   - [StellarTxSignersInspector - Facilitating Multisig Discovery](https://stellar.expert/blog/stellar-tx-signers-inspector-facilitating-multisig-discovery) 
  
  - Engineering Talk Series
-  - [Creating Usable Stellar Applications](https://youtu.be/hVGHMkYL15s)
-  - [Intuitive Stellar Consensus Protocol](https://youtu.be/fDt8Eh4T_lE)
-  - [Kelp GUI](https://youtu.be/zxBoERxZcQs) 
-  - [Practical Path Payments](https://youtu.be/KzlSgSPStz8) 
-  - [ZkVM: about the motocrab](https://youtu.be/1i-EJykVzag) 
-  - [User-Friendly Key Management with SEP-30 Recoverysigner](https://youtu.be/W-n73Cuy7-0) 
-  - [Turing Complete Contract proposal for Stellar](https://youtu.be/T7FlHKbew4U) 
+    - [Creating Usable Stellar Applications](https://youtu.be/hVGHMkYL15s)
+    - [Intuitive Stellar Consensus Protocol](https://youtu.be/fDt8Eh4T_lE)
+    - [Kelp GUI](https://youtu.be/zxBoERxZcQs) 
+    - [Practical Path Payments](https://youtu.be/KzlSgSPStz8) 
+    - [ZkVM: about the motocrab](https://youtu.be/1i-EJykVzag) 
+    - [User-Friendly Key Management with SEP-30 Recoverysigner](https://youtu.be/W-n73Cuy7-0) 
+    - [Turing Complete Contract proposal for Stellar](https://youtu.be/T7FlHKbew4U) 
 
 ## Understanding the Stellar Consensus Protocol
 
