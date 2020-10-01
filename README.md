@@ -410,7 +410,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [StellarX](https://www.stellarx.com/)
   - [Stellarport](https://stellarport.io/home)
   - [StellarTerm](https://stellarterm.com/)
-  - [BlockEQ](https://www.blockeq.com/) 
   - [Interstellar.Exchange](https://interstellar.exchange/) 
   
 - Trading Bots
