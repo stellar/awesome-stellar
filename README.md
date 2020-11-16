@@ -202,7 +202,7 @@ If you're new to Stellar start here 👇
   - [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk)
   - [Scala SDK](https://github.com/synesso/scala-stellar-sdk)
   - [C++ SDK](https://github.com/bnogalm/StellarQtSDK)
-  - [Unity C# SDK Integration](https://github.com/Kirbyrawr/stellar-unity)
+  - [Unity 3D SDK](https://github.com/Kirbyrawr/stellar-sdk-unity)
   - [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk)
   
 - Interact with the Stellar Network 
