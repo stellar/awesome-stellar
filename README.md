@@ -5,8 +5,6 @@
 
 <p align="center">Awesome Stellar is a curated list of Stellar applications, blog posts, educational resources, tools, and more.</p>
 
-<p align="center">You can share this list using <a href="http://www.awesomestellar.com">awesomestellar.com</a>.</p>
-
 <div align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a></div> 
 
 ## 👨‍🚀 Contents
@@ -31,40 +29,33 @@
 - [Stellar Website](https://www.stellar.org/)
 - [Github](https://github.com/stellar)
 - [Twitter](https://twitter.com/StellarOrg)
+- [Stellar Global Discord](https://discord.gg/5g2YkszV3D)
 - [Keybase](https://keybase.io/team/stellar.public)
 - [SDF Blog](https://www.stellar.org/blog/) 
 - [Stellar Community Blog](https://medium.com/stellar-community)
 - [Stellar Developers Blog](https://www.stellar.org/developers-blog)
 - [Reddit](https://www.reddit.com/r/Stellar/)
 - [YouTube](https://www.youtube.com/channel/UC4BrVpvKK0r2zP9xVFQcPSA)
-- [Stellar Podast YouTube](https://www.youtube.com/channel/UCHPQ8IGpoPftsid0s43wYpQ)
+- [Stellar Podcast YouTube](https://www.youtube.com/channel/UCHPQ8IGpoPftsid0s43wYpQ)
 - [Instagram](https://www.instagram.com/stellarorg/)
 - [Facebook](https://www.facebook.com/stellarfoundation) 
 - [LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
 
 
 ## Community 
-- [The Stellar Podcast](https://stellar-community-podcast.simplecast.com/) - A weekly podcast that discusses the news, applications, and developers building the future of finance on Stellar.
-
-- [Inside Stellar](http://insidestellar.co/) - A community run podcast that interviews Stellar People building Stellar Projects.
+- [Stellar Global Discord](https://discord.gg/5g2YkszV3D) - A global communnity of Business leaders, Developers, and Stellar enthusiasts. Newcomers are welcomed with open arms-connect with the Stellar community and ask questions!
 
 - [Stellar discussions by Public Node](https://podcast.publicnode.org/) - Public Node community members discussing all aspects of the Stellar ecosystem - from brainstorming to developer interviews and everything in between.
 
-- [Galactic Talk](https://galactictalk.org/) - A community of Stellar users, developers and traders.
-
-- [Stellar Community Fund](https://www.stellar.org/community-fund?locale=en) - An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community. 
-  - [Round 1 Winners](https://medium.com/stellar-community/stellar-community-fund-round-1-winners-1957314d15cc)
-  - [Round 2 Winners](https://medium.com/stellar-community/stellar-community-fund-2-the-results-69b3f6a6040e) 
-  - [Round 3 Winners](https://medium.com/stellar-community/stellar-community-fund-round-3-results-9d99e7cfec32)
-  - [Round 4 Winners](https://medium.com/stellar-community/stellar-community-fund-round-4-results-b3ed5f6acbe1)
+- [Stellar Community Fund](https://communityfund.stellar.org) - An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community. 
   
 - [Stellar Torch](http://stellartorch.com/) - A Stellar community experiment. The Stellar Torch is a transaction that is sent from person to person.
   - [The Stellar Torch is Lit](https://www.reddit.com/r/Stellar/comments/c5r2z0/the_stellar_torch_is_lit/)
   - [Stellar Torch featured on CoinDesk](https://www.coindesk.com/stellars-version-of-bitcoins-lightning-torch-has-been-burning-quietly-since-june)
+
+- [Galactic Talk](https://galactictalk.org/) - A community of Stellar users, developers and traders.
   
 - [Stellar Keybase Team](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
-
-- [Stellar Global Keybase Team](https://keybase.io/team/stellar_global) - A community run Keybase team to discuss all things Stellar.
 
 - [Reddit](https://www.reddit.com/r/Stellar/) - Stellar Subreddit with 100,000+ members. 
 
@@ -78,31 +69,33 @@ If you're new to Stellar start here 👇
 - Quick Summaries 
   - [Learn how Stellar unites the world’s financial infrastructure.](https://www.stellar.org/overview)
   - [The Power of Stellar](https://www.stellar.org/learn/the-power-of-stellar) 
-  - [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
-  - [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
+  - [Lumenauts - What is Stellar?](https://www.lumenauts.com/lessons/what-is-stellar)
   - [Coinbase Earn - What is Stellar?](https://www.coinbase.com/earn/stellar/lesson/1)
-  - [A Primer on the Stellar Network](https://snarky.ca/a-primer-on-stellar/)
   
 - Intro to Stellar Assets & Anchors
   - [What are Stellar Lumens?](https://www.stellar.org/lumens) 
-  - [Stellar Assets and Anchors](https://youtu.be/Cf9CdFVse-w) 
+  - [Stellar Assets and Anchors](https://www.lumenauts.com/lessons/assets-and-anchors) 
   - [How banks, businesses, and people use Stellar](https://www.coinbase.com/earn/stellar/lesson/4)
   
 - Intro to the Stellar Decentralized Exchange 
-  - [How the Stellar Decentralized Exchange (DEX) Works](https://youtu.be/2L8-lrmzeWk)
+  - [How the Stellar Decentralized Exchange (DEX) Works](https://www.lumenauts.com/lessons/stellar-decentralized-exchange)
   - [How to Buy and Sell on the Stellar Decentralized Exchange](https://www.lumenauts.com/guides/how-to-buy-and-sell-on-the-stellar-decentralized-exchange)
 
 - Intro to the Stellar Consensus Protocol
   - [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
-  - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://youtu.be/X3Gj2nQZCNM)
+  - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://www.lumenauts.com/lessons/stellar-consensus-protocol)
 
 ## Blogs and Beginner Guides 
 
+- [Creating Custom Assets with Stellar](https://nandovieira.com/creating-custom-assets-with-stellar) 
+
+- [Transaction Submission, Timeouts, and Dynamic Fees FAQ](https://www.stellar.org/developers-blog/transaction-submission-timeouts-and-dynamic-fees-faq)
+
+- [Build Your First Stellar App Using Python and Flask](https://medium.com/stellar-community/build-your-first-stellar-app-using-python-and-flask-pt-1-f2761c9b94df) 
+
 - [Understanding Stellar Path Payments](https://medium.com/stellar-community/understanding-stellar-path-payments-5eefe55b071b)
 
-- [A Stellar 2019 — Year in Review](https://medium.com/stellar-community/a-stellar-2019-the-dev-digest-year-in-review-1ac4ac869ebd)
-
-- [SDF's Next Steps](https://www.stellar.org/blog/sdfs-next-steps/)
+- [SDF's Roadmap](https://www.stellar.org/roadmap)
 
 - [SDF Joins the Blockchain Association](https://www.stellar.org/blog/sdf-joins-the-blockchain-association) 
 
@@ -175,21 +168,27 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources 
 
-- [Stellar Dev Digest](https://stellar.us9.list-manage.com/subscribe?u=c001d97369b7a10d224c23867&id=e1f435dc0a) - Weekly newsletter covering all things around the Stellar developer ecosystem. 
+- [Stellar Docs](https://developers.stellar.org/docs/) - The canonical resource for building on Stellar. Learn to create an account, send and receive payments, issue assets, build and trick out a Stellar wallet, and more.
+ 
+- [Stellar Developer Blog](https://www.stellar.org/developers-blog) - News and insights of Stellar for Developers.
+
+- [Stellar Laboratory](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network.
 
 - [Stellar Github](https://github.com/Stellar) 
 
 - [Stellar Core](https://github.com/stellar/stellar-core) - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
-- [Astrocore](https://github.com/astroband/astrocore) - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
-
 - [Stellar Protocol](https://github.com/stellar/stellar-protocol) - Developer discussion about possible changes to the protocol.
    - [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) 
    - [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md)
 
-- [Stellar Docs](https://developers.stellar.org/docs/) - Stellar documentation. 
+- Interact with the Stellar Network 
+  - [Horizon API](https://horizon.stellar.org/) - Horizon allows you to submit transactions to the network, check the status of accounts, and subscribe to event streams. Servers hosted in the US. 
+    - [Horizon Github Repo](https://github.com/stellar/go/tree/master/services/horizon) 
 
-- [Stellar Laboratory](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network.
+- [Stellar Protocol](https://github.com/stellar/stellar-protocol) - Developer discussion about possible changes to the protocol.
+   - [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) 
+   - [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md)
 
 - Stellar SDKs 
   - [JavaScript SDK](https://www.stellar.org/developers/js-stellar-sdk/reference/) 
@@ -205,9 +204,7 @@ If you're new to Stellar start here 👇
   - [Unity C# SDK Integration](https://github.com/Kirbyrawr/stellar-unity)
   - [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk)
   
-- Interact with the Stellar Network 
-  - [Horizon API](https://horizon.stellar.org/) - Horizon allows you to submit transactions to the network, check the status of accounts, and subscribe to event streams. Servers hosted in the US. 
-    - [Horizon Github Repo](https://github.com/stellar/go/tree/master/services/horizon) 
+- [Stellar Dev Digest](https://stellar.us9.list-manage.com/subscribe?u=c001d97369b7a10d224c23867&id=e1f435dc0a) - Weekly newsletter covering all things around the Stellar developer ecosystem. 
     
   - [SatoshiPay's Horizon API](https://stellar-horizon.satoshipay.io/) - SatoshiPay's alternative to Stellar.org's Horizon API servers. Servers hosted in the US, Europe, and Asia. 
   
@@ -222,6 +219,8 @@ If you're new to Stellar start here 👇
     - [Ticker API Documentation](https://github.com/stellar/go/blob/master/services/ticker/docs/API.md) 
     - [Assets Endpoint](https://ticker.stellar.org/assets.json) - Displays information about all assets available. 
     - [Markets Endpoint](https://ticker.stellar.org/markets.json) - Displays 24-hour, 7-day and orderbook information about markets that were active during these periods. 
+ 
+ - [Astrocore](https://github.com/astroband/astrocore) - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
  
  - Useful Tools
     - [Hack Stellar Boilerplate](https://github.com/tyvdh/hack-stellar) - This Hack Stellar app is a boilerplate collection of basic Stellar functions. You can either hack this Stencil project into whatever you're trying to build or just cut and paste out the functions from here into your own project.
@@ -245,7 +244,9 @@ If you're new to Stellar start here 👇
     - [Stellar Parallel Catchup](https://github.com/astroband/stellar-parallel-catchup) - Catchup Stellar node history in background. 
 
 ## Developer Educational Resources 
-  - [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
+- [Stellar Quest](https://quest.stellar.org) - learn Stellar, win prizes! 
+
+- [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service. 
       - [How and Why to Complete Your Stellar.toml](https://www.stellar.org/developers/guides/walkthroughs/how-to-complete-stellar-toml.html)
       - [How to Connect Your Anchor Service to Stellar Wallets](https://www.stellar.org/developers/guides/walkthroughs/connect-to-wallets.html) 
       - [Creating Custom Assets on Stellar](https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html) 
@@ -319,45 +320,40 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Stellar.org Project Directory](https://proxy.stellar.org/ecosystem/projects) - Another project directory maintained on Stellar.org
 
-- [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet. 
-
 - [DSTOQ](https://dstoq.com/) - DSTOQ is on a mission to introduce micro investing to billions of people around the world. 
 
-- [Money Clip](https://www.moneyclip.io/) - MoneyClip stores Canadian Dollars inside your phone. You can split bills, buy & sell online, and easily pay friends and family using digital cash. It’s quick, secure, and easy to use.
+- [Vibrant](https://vibrant.app) - Dollar-savings app for Argentines
 
-- [Nodle](https://nodle.io/) - Nodle is the world’s largest ecosystem of connected devices, providing infrastructure, software and access to data for the Internet of Things.
+- [Uhuruwallet](https://uhuruwallet.com) - WhatsApp based wallet that allows for sending intra-African payments.
 
 - [SatoshiPay](https://satoshipay.io/) - Global, fast and easy micropayment solutions. 
 
-- [Settle Network](https://settlenetwork.com/) - Settle provides programmatic interoperability between traditional and digital assets, by leveraging our financial infrastructure in every country we operate. 
+- [Settle Network](https://settlenetwork.com/) - Settle provides programmatic interoperability between traditional and digital assets, by leveraging their financial infrastructure in every country they operate. 
 
-- [StellarAuth](https://stellarauth.com/) - StellarAuth increases user security and enables key management across applications and user actions with more grace and simplicity than any 2FA system out there.
-
-- [RealtyBits](https://www.realtybits.com/) - RealtyBits is the first blockchain based marketplace for buying and selling real estate assets with digital currencies from anywhere in the world.
-
-- [Kapilendo](https://www.kapilendo.de/) - Kapilendo is a banking platform for SMEs and issued its first blockchain-based digital bond on Stellar.
-
-- [DealBox](https://dlbx.io/) - A feature-rich digital securities issuance and investment platform connecting entrepreneurs and investors to enable the future of investing and capital formation.
+- [Cowrie Exchange](https://cowrie.exchange) - Cowrie Integrated Systems is a fintech company that provides value added services over electronic payment networks.
 
 - [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company.  It offers online, offline and crypto remittances to nearly 100 countries.
 
-- [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
+- 
 
 - [COINQVEST](https://www.coinqvest.com) - Enterprise Cryptocurrrency Payment Processing on Stellar. Accept digital currencies, settle in USD, EUR, NGN.
 
-- [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
+- [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar. 
 
-- [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
+- 
+- [Lightnet](https://lightnet.io/) - Remittance company focused on South-East Asia
+- [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
+-
 
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
 
-- [Blockdaemon](https://app.blockdaemon.com/marketplace/categories/-/stellar-horizon) - Spin up and deploy Stellar nodes within minutes. 
+
 
 - [Public Node](https://publicnode.org/) - Stellar nodes funded by the community. 
 
-- [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar. 
 
-- [Stellar Battle](https://stellarbattle.com/) - Win community funded prizes. 
+
+-  
 
 - [COINQVEST](https://www.coinqvest.com/) - COINQVEST helps online merchants and e-commerce shops programmatically accept and settle payments in new digital currencies while staying compliant, keeping their accountants and tax authorities happy.
 
@@ -365,15 +361,24 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Litemint.com](https://litemint.com/) - Built on Stellar, Litemint is a crypto wallet loaded with free instant games. Take on the daily live challenges, earn collectibles and rewards straight in your wallet.
 
-- [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
+- [RealtyBits](https://www.realtybits.com/) - RealtyBits is the first blockchain based marketplace for buying and selling real estate assets with digital currencies from anywhere in the world.
 
 - [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders. 
+- [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet. 
+- [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company.
+- [StellarAuth](https://stellarauth.com/) - StellarAuth increases user security and enables key management across applications and user actions with more grace and simplicity than any 2FA system out there.
+- [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
+- [Kapilendo](https://www.kapilendo.de/) - Kapilendo is a banking platform for SMEs and issued its first blockchain-based digital bond on Stellar.
+- [Blockdaemon](https://app.blockdaemon.com/marketplace/categories/-/stellar-horizon) - Spin up and deploy Stellar nodes within minutes. 
+- [Stellar Battle](https://stellarbattle.com/) - Win community funded prizes.
+- [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar. 
 
 ## Stellar Asset Issuers (Anchors)
 
 - [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
 
 - [Tempo](https://tempo.eu.com/en) - Tempo's EURT is a stable coin, backed by on hand cash, 1 EURT = 1 EUR. 
+- 
 
 - [StableCoin](https://stablecoin.group/) - Deposit BTC and ETH in exchange for a fully backed 1:1 asset on Stellar; Powered by Coinsquare. 
 
