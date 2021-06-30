@@ -246,6 +246,11 @@ If you're new to Stellar start here 👇
     - [Parallel Stellar Core Catchup](https://github.com/satoshipay/stellar-core-parallel-catchup) - Sync a full Stellar validator node (including full history) as fast as possible. Split the big ledger into small chunks of size CHUNK_SIZE. Run a catchup for the chunks in parallel with WORKERS worker processes. Stitch together the resulting database and history archive.
     - [Stellar Parallel Catchup](https://github.com/astroband/stellar-parallel-catchup) - Catchup Stellar node history in background. 
 
+- How to set up a Stellar node
+  - [Setting up your own Horizon](https://developers.stellar.org/docs/run-api-server/)
+  - [Setting up a validator node](https://developers.stellar.org/docs/run-core-node/)
+  - [How to nstall from Debian packages](https://github.com/stellar/packages/blob/master/docs/adding-the-sdf-stable-repository-to-your-system.md)
+
 ## Developer Educational Resources 
 - [Stellar Quest](https://quest.stellar.org) - learn Stellar, win prizes! 
 
