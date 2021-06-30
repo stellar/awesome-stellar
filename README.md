@@ -149,7 +149,7 @@ If you're new to Stellar start here 👇
 
 - [Blockchain Berkeley Xcelerator - Stellar Ecosystem Panel](https://www.youtube.com/watch?v=4TFuDCg4fwU&list=PLmr3tp_7-7Gi9MwU5D8fASrr3Vd3l27nX&index=4)
 
-- [Partnership with the Ministry of Digital Transformation of Ukraine](https://www.stellar.org/blog/supporting-ukrainian-financial-institutions-to-leverage-blockchain](https://www.stellar.org/case-studies/satoshipay)
+- [Partnership with the Ministry of Digital Transformation of Ukraine](https://www.stellar.org/blog/supporting-ukrainian-financial-institutions-to-leverage-blockchain)
 
 - [Stellar USDC](https://www.stellar.org/blog/best-of-both-worlds-stellar-usdc)
 
