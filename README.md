@@ -368,6 +368,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 
 - [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders. 
+- [Sentit](https://sentit.io) - Simplifying Stellar Blockchain For Cross-Border Payments
 
 ## Stellar Asset Issuers (Anchors)
 
@@ -403,6 +404,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [Litemint](https://litemint.com/) - Litemint is an [open source](https://github.com/litemint/litemint), non-custodial wallet allowing you to store any Stellar asset and trade on the SDEX. It also offers an app and game ecosystem powered by decentralized cross-currency purchases through Stellar path payments.
 
 - [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
+
+- [Sentit](https://sentit.io) - Simplifying Stellar Blockchain For Cross-Border Payments.
 
 ## Use the Stellar Decentralized Exchange 
 
