@@ -369,6 +369,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders. 
 
+- [Skyhitz](https://skyhitz.io/) - Skyhitz is a beats market for music creators built on Stellar. 
+
 ## Stellar Asset Issuers (Anchors)
 
 - [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
