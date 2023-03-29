@@ -25,7 +25,7 @@
 - [Videos, Podcasts, and AMAs](#videos-podcasts-and-amas)
 
 
-## Official Channels managed by SDF
+## Official Channels Managed by SDF
 - [Stellar Website](https://www.stellar.org/)
 - [Stellar Quest](https://quest.stellar.org/)
 - [Github](https://github.com/stellar)
