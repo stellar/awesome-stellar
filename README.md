@@ -131,6 +131,8 @@ If you're new to Stellar start here 👇
 
 ## Case Studies and Insights
 
+- [How Tempo and Cowrie are Building on Stellar](https://stellar-org.webflow.io/case-studies/how-tempo-and-cowrie-are-building-on-stellar)
+
 - [Why IBM Built World Wire on Stellar](https://youtu.be/GtQY8Jfa4NA)
 
 - [Why IBM Built World Wire on Stellar: The Developer Experience](https://youtu.be/ksZAjFGGeRU)
