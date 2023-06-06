@@ -46,8 +46,6 @@
 ## Community 
 - [The Stellar Podcast](https://stellar-community-podcast.simplecast.com/) - A weekly podcast that discusses the news, applications, and developers building the future of finance on Stellar.
 
-- [Inside Stellar](http://insidestellar.co/) - A community run podcast that interviews Stellar People building Stellar Projects.
-
 - [Stellar discussions by Public Node](https://podcast.publicnode.org/) - Public Node community members discussing all aspects of the Stellar ecosystem - from brainstorming to developer interviews and everything in between.
 
 - [Galactic Talk](https://galactictalk.org/) - A community of Stellar users, developers and traders.
