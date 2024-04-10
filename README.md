@@ -367,8 +367,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 
-- [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders. 
-
 - [Skyhitz](https://skyhitz.io/) - Skyhitz is a beats market for music creators built on Stellar. 
 
 ## Stellar Asset Issuers (Anchors)
