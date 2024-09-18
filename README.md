@@ -347,8 +347,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system. 
 
-- [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company. 
-
 - [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
 
 - [Blockdaemon](https://app.blockdaemon.com/marketplace/categories/-/stellar-horizon) - Spin up and deploy Stellar nodes within minutes. 
