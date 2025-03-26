@@ -56,10 +56,6 @@
   - [Round 3 Winners](https://medium.com/stellar-community/stellar-community-fund-round-3-results-9d99e7cfec32)
   - [Round 4 Winners](https://medium.com/stellar-community/stellar-community-fund-round-4-results-b3ed5f6acbe1)
   
-- [Stellar Torch](http://stellartorch.com/) - A Stellar community experiment. The Stellar Torch is a transaction that is sent from person to person.
-  - [The Stellar Torch is Lit](https://www.reddit.com/r/Stellar/comments/c5r2z0/the_stellar_torch_is_lit/)
-  - [Stellar Torch featured on CoinDesk](https://www.coindesk.com/stellars-version-of-bitcoins-lightning-torch-has-been-burning-quietly-since-june)
-  
 - [Stellar Keybase Team](https://keybase.io/team/stellar.public) - A Keybase team to discuss all things Stellar. 
 
 - [Stellar Global Keybase Team](https://keybase.io/team/stellar_global) - A community run Keybase team to discuss all things Stellar.
@@ -365,8 +361,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 - [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
 
 - [Tempo](https://tempo.eu.com/en) - Tempo's EURT is a stable coin, backed by on hand cash, 1 EURT = 1 EUR. 
-
-- [StableCoin](https://stablecoin.group/) - Deposit BTC and ETH in exchange for a fully backed 1:1 asset on Stellar; Powered by Coinsquare. 
 
 - [Apay (Papaya Anchor)](https://apay.io/in) - Papaya anchors multiple crypto assets to the network including BTC, LTC, and ETH.
 
