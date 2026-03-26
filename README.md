@@ -344,7 +344,9 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 
-- [Skyhitz](https://skyhitz.io/) - Skyhitz is a beats market for music creators built on Stellar. 
+- [Skyhitz](https://skyhitz.io/) - Skyhitz is a beats market for music creators built on Stellar.
+
+- [x402 Wallet for Claude Desktop](https://github.com/402md/x402-wallet-for-claude-desktop) - A Claude Desktop extension that gives AI agents a USDC wallet on Stellar. Enables automatic x402 payments so Claude can discover and pay for services using USDC on the Stellar network.
 
 ## Stellar Asset Issuers (Anchors)
 
