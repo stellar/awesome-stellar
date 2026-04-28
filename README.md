@@ -19,6 +19,7 @@
 - [Network Statistics](#network-statistics)
 - [Developer Resources](#developer-resources)
 - [Developer Educational Resources](#developer-educational-resources)
+- [Monitoring & Status Pages](#monitoring--status-pages)
 - [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol)
 - [Projects Building on Stellar](#projects-building-on-stellar)
 - [Stellar Asset Issuers (Anchors)](#stellar-asset-issuers-anchors)
@@ -273,6 +274,10 @@ If you're new to Stellar start here 👇
     - [ZkVM: about the motocrab](https://youtu.be/1i-EJykVzag) 
     - [User-Friendly Key Management with SEP-30 Recoverysigner](https://youtu.be/W-n73Cuy7-0) 
     - [Turing Complete Contract proposal for Stellar](https://youtu.be/T7FlHKbew4U) 
+
+## Monitoring & Status Pages
+
+- [StatusPageBuddy](https://www.statuspagebuddy.com/) - Free hosted status pages for indie developers. 
 
 ## Understanding the Stellar Consensus Protocol
 
