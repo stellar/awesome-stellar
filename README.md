@@ -277,7 +277,7 @@ If you're new to Stellar start here 👇
 
 ## Monitoring & Status Pages
 
- - [StatusPageBuddy](https://www.statuspagebuddy.com/) - Free hosted status pages for indie developers. No credit card required; custom branding and domain available on the free plan.
+- [StatusPageBuddy](https://www.statuspagebuddy.com/) - Free hosted status pages for indie developers. 
 
 ## Understanding the Stellar Consensus Protocol
 
