@@ -346,7 +346,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Skyhitz](https://skyhitz.io/) - Skyhitz is a beats market for music creators built on Stellar. 
 
-- [AlgoVoi](https://algovoi.co.uk/) - Multi-chain, multi-protocol crypto payment gateway. Accepts USDC on Stellar via Circle-issued assets with SEP-friendly memo binding (`av:{token}` short-memo format to fit MEMO_TEXT's 28-byte limit). Also spans Algorand, VOI, Hedera, Base, Solana, and Tempo on a single endpoint. Implements Coinbase x402, IETF MPP, and Google AP2 agent-commerce protocols. Hosted checkout pages + on-chain verification + open-source adapters for 17+ eCommerce platforms.
+- [AlgoVoi](https://algovoi.co.uk/) - Multi-chain crypto payment gateway accepting Circle-issued USDC on Stellar, with `av:{token[:20]}` MEMO_TEXT binding (truncated to fit Stellar's 28-byte limit) for on-chain payment verification.
 
 ## Stellar Asset Issuers (Anchors)
 
