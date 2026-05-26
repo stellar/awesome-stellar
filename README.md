@@ -138,7 +138,7 @@ If you're new to Stellar start here 👇
 
 - [Onboarding everyone - the StellarX Mission](https://youtu.be/HNRmJMAJ5rw)
 
-- [Central Bank Digital Currencies](http://thinktank.omfif.org/ibm)
+- [Central Bank Digital Currencies](https://www.omfif.org/omfif-reports/central-bank-digital-currencies/)
 
 - [Charting the Evolution of Programmable Money](https://www.ibm.com/thought-leadership/institute-business-value/report/programmoneyevo)
 
