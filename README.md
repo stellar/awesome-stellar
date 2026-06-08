@@ -170,6 +170,8 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring MCP server for AI agent wallets on Solana. Verify agent identity before x402 micropayments — cross-chain trust infrastructure for AI agents. Free MCP tools included.
+
 - [Stellar Dev Digest](https://stellar.us9.list-manage.com/subscribe?u=c001d97369b7a10d224c23867&id=e1f435dc0a) - Weekly newsletter covering all things around the Stellar developer ecosystem. 
 
 - [Stellar Github](https://github.com/Stellar) 
