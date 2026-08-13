@@ -418,6 +418,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   - [Blockchain Week NYC 2019 - Q&A with Jed McCaleb (Transcript)](https://medium.com/stellar-community/transcript-q-a-with-jed-mccaleb-blockchain-week-nyc-2019-17862ba66a90)
   - [AMA with Jed McCaleb and Denelle Dixon (6/5/19)](https://www.reddit.com/r/Stellar/comments/bwsprq/ama_with_stellar_development_foundation_jed/)
   - [SDF Update & Mini AMA - Jed McCaleb (1/28/19)](https://www.reddit.com/r/Stellar/comments/akup8k/sdf_update/)
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
 
 ## Contribute
