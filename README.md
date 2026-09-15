@@ -273,6 +273,8 @@ If you're new to Stellar start here 👇
     - [ZkVM: about the motocrab](https://youtu.be/1i-EJykVzag) 
     - [User-Friendly Key Management with SEP-30 Recoverysigner](https://youtu.be/W-n73Cuy7-0) 
     - [Turing Complete Contract proposal for Stellar](https://youtu.be/T7FlHKbew4U) 
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ## Understanding the Stellar Consensus Protocol
 
