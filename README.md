@@ -165,7 +165,9 @@ If you're new to Stellar start here 👇
 
 - [Stellarbeat](https://stellarbeat.io/) - Information about nodes and validators on the network - includes a quorum monitor. 
 
-- [Galactic Vision](http://galactic.vision) - A 3D network and quorum explorer. 
+- [Galactic Vision](http://galactic.vision) - A 3D network and quorum explorer.
+
+- [XLM Hub](https://xlmhub.com/) - Ecosystem index plus read-only account tools: minimum balance breakdown, trustline audit, and claimable balance lookup. Includes a live view of XLM payments settling on the network.
 
 
 ## Developer Resources 
