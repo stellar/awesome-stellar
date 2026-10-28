@@ -223,7 +223,8 @@ If you're new to Stellar start here 👇
     - [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) - An open-source wrapper for the JavaScript Stellar SDK. 
     - [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) - A simple CLI tool to generate custom Stellar vanity addresses. 
     - [Stellar transaction signers inspector](https://github.com/stellar-expert/stellar-tx-signers-inspector) - Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.
-    - [Create Stellar Token (Testnet)](https://github.com/msfeldstein/create-stellar-token) - Script that creates a custom Stellar token on testnet. 
+    - [Create Stellar Token (Testnet)](https://github.com/msfeldstein/create-stellar-token) - Script that creates a custom Stellar token on testnet.
+    - [sorobanpreflight](https://github.com/NarwhalThePong/sorobanpreflight) - Pre-audit checklist CLI for Soroban (Rust) smart contracts that flags common issues such as missing auth checks and unchecked arithmetic. A self-review aid, not an audit.
   - Validator Tools
     - [Fast Stellar Core Catch Up](https://github.com/Lobstrco/stellar-core-parallel-catchup-py) - Starting a full stellar core validator from scratch takes a while, as the node needs to download and process a lot of data during the "Catch up" phase. The catching up phase usually takes more than a month. This script helps to make the process significantly shorter, as it allows to perform the catch up of multiple ledgers blocks in parallel.
     - [Parallel Stellar Core Catchup](https://github.com/satoshipay/stellar-core-parallel-catchup) - Sync a full Stellar validator node (including full history) as fast as possible. Split the big ledger into small chunks of size CHUNK_SIZE. Run a catchup for the chunks in parallel with WORKERS worker processes. Stitch together the resulting database and history archive.
