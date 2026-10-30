@@ -377,6 +377,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 
+- [Oath Wallet](https://oathwallet.org/) - A multi-chain wallet for iPhone and iPad with support for Stellar (XLM).
+
 ## Use the Stellar Decentralized Exchange 
 
 - User Interfaces for the DEX 
