@@ -377,6 +377,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 
+- [Cavos](https://cavos.xyz/embedded-stellar-wallet) - Embedded wallet SDK for Stellar with passkey and social login, non-custodial keys and gas sponsorship.
+
 ## Use the Stellar Decentralized Exchange 
 
 - User Interfaces for the DEX 
