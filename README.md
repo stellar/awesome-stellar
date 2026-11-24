@@ -377,6 +377,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 
+- [Fluid](https://fluidwallet.dpdns.org) - Fluid is an open source, non-custodial wallet that stores Stellar assets alongside 60 other chains, running entirely in the browser. Seed-phrase-only accounts, no KYC.
+
 ## Use the Stellar Decentralized Exchange 
 
 - User Interfaces for the DEX 
