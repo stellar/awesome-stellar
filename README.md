@@ -346,6 +346,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Skyhitz](https://skyhitz.io/) - Skyhitz is a beats market for music creators built on Stellar. 
 
+- [Paydlux](https://paydlux.com/) - Payment rails for AI agents on Stellar: spend-limited 2-of-2 multisig vaults governed by a human spending mandate, plus check.paydlux.com, a metered API that reads a 402 endpoint's payment terms before an agent pays it. Open source, live on mainnet.
+
 ## Stellar Asset Issuers (Anchors)
 
 - [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
