@@ -375,6 +375,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   
 - [Litemint](https://litemint.com/) - Litemint is an [open source](https://github.com/litemint/litemint), non-custodial wallet allowing you to store any Stellar asset and trade on the SDEX. It also offers an app and game ecosystem powered by decentralized cross-currency purchases through Stellar path payments.
 
+- [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 - [Fluid](https://fluidwallet.dpdns.org/) - Free, open-source, non-custodial multi-chain wallet — hold and swap XLM to any supported blockchain in one composed route, no KYC, no minimums.
 
 ## Use the Stellar Decentralized Exchange 
